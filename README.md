@@ -484,3 +484,40 @@ http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52353
 http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52334
 #EXTINF:-1,ES279:NON STOP PEOPLE
 http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52328
+
+
+
+#EXTINF:-1 ,ES214:Movistar Accion
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52393
+#EXTINF:-1 ,ES013:M Action
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2591
+#EXTINF:-1 ,ES219:Movistar Estrenos
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52388
+#EXTINF:-1 ,ES016:M Estrenos
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2588
+#EXTINF:-1 ,ES025:M SERIES HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2579
+#EXTINF:-1 ,ES077:MoviStar Cine ?
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29315
+#EXTINF:-1 ,ES053:M Comedia
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2551
+#EXTINF:-1 ,ES215:Movistar Comedia HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52392
+#EXTINF:-1 ,ES078:Movistar CineDoc&Roll
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29314
+#EXTINF:-1 ,ES021:M Xtra
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2583
+#EXTINF:-1 ,ES023:M Dcine
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/2581
+#EXTINF:-1 ,ES158:MoviStar CINE
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29234
+#EXTINF:-1 ,ES217:Movistar Xtra
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52390
+#EXTINF:-1 ,ES110:Alquiler 1 HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29282
+#EXTINF:-1 ,ES116:Alquiler 7 HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29276
+#EXTINF:-1 ,ES117:Alquiler 9 HD
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/29275
+#EXTINF:-1 ,ES244:Movistar Alquiler Presentation
+http://mu02.cularu.com:8880/yg6m024/2LCFYd5jbW/52363
