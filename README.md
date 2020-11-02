@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Nacionales",Caracol CO
-http://185.232.53.5:2086/gennaro/gennaro/66556?checkedby:hlscat.com
+http://185.232.53.5:2086/gennaro/gennaro/66556?checkedby:hlscat.com49/.ts
 #EXTINF:-1 group-title="Undefined",A&E
 http://185.232.53.5:2086/gennaro/gennaro/98773?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",A&E HD
