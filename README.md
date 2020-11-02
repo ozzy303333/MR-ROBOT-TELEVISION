@@ -203,6 +203,8 @@ http://185.232.53.5:2086/gennaro/gennaro/92588?checkedby:hlscat.com
 http://185.232.53.5:2086/gennaro/gennaro/92587?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",FOX FAMILY
 http://185.232.53.5:2086/gennaro/gennaro/98785?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",FOX movies,FOX MOVIES
+http://185.232.53.5:2086/gennaro/gennaro/92586?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Undefined",FOX SERIES
 http://185.232.53.5:2086/gennaro/gennaro/92585?checkedby:hlscat.com
 #EXTINF:-1 group-title="Sport",FOX SPORT 1 HD
