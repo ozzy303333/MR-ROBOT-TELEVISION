@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="Undefined",CARACOL TV
+http://185.232.53.5:2086/gennaro/gennaro/66556?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",A&E
 http://185.232.53.5:2086/gennaro/gennaro/98773?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",A&E HD
@@ -77,8 +79,6 @@ http://185.232.53.5:2086/gennaro/gennaro/92617?checkedby:hlscat.com
 http://uruguayiptv.com:25461/Valeria/Valeria2020/72749?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",CANAL VIAJAR HD
 http://uruguayiptv.com:25461/Valeria/Valeria2020/1850?checkedby:hlscat.com
-#EXTINF:-1 group-title="Undefined",CARACOL TV
-http://185.232.53.5:2086/gennaro/gennaro/66556?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",CARTOON NETWORK SD
 http://uruguayiptv.com:25461/Valeria/Valeria2020/18451?checkedby:hlscat.com
 #EXTINF:-1 group-title="Undefined",CDF BASICO CHILE
