@@ -1,427 +1,357 @@
 #EXTM3U
-#EXTINF:-1,A3 SERIES HD ESPAÑA
-http://uruguayiptv.com:25461/Valeria/Valeria2020/527?checkedby:iptvcat.com
-#EXTINF:-1,FOX MOVIES tvg-logo= group-title="TELEVISION", FOX MOVIES
-http://185.232.53.5:2086/gennaro/gennaro/92586?checkedby:iptvcat.com
-#EXTINF:-1,VIENDOMOVIES tvg-logo= group-title="TELEVISION", VIENDOMOVIES
-http://185.232.53.5:2086/gennaro/gennaro/66608?checkedby:iptvcat.com
-#EXTINF:-1,TNT SERIES
-http://185.232.53.5:2086/gennaro/gennaro/92484?checkedby:iptvcat.com
-#EXTINF:-1,TNT SERIES HD
-http://uruguayiptv.com:25461/Valeria/Valeria2020/585?checkedby:iptvcat.com
-
-
-
-
-
-#EXTINF:-1 group-title="eldukedelasapuesta IPTV",Gerado por eldukedelasapuesta IPTV(PlayStore)
-https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES070TNTES.png",ES070:TNT HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2534
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES220TNT.png",ES220:TNT FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52387
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES006AXNES.png",ES006:AXN ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2598
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES212AXN.png",ES212:AXN
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52395
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES211AXNWhiteHD.png",ES211:AXN White HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52396
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES043FoxES.png",ES043:Fox ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2561
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES210FOXHD.png",ES210:FOX HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52397
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES044FoxLifeES.png",ES044:Fox Life ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2560
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES209FOXLifeHD.png",ES209:FOX Life HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52398
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES066SyfyES.png",ES066:Syfy ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2538
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES208SYFY.png",ES208:SYFY
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52399
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES111VH1.png",ES111:VH1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29281
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES012Calle13.png",ES012:Calle 13
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2592
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES222ParamountChannel.png",ES222:Paramount Channel
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52385
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES065Paramount.png",ES065:Paramount
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2539
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES167SUNDANCEFHD.png",ES167:SUNDANCE FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29225
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES223HollywoodHD.png",ES223:Hollywood HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52384
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES030ComedyCentral.png",ES030:Comedy Central
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2574
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES221ComedyCentral.png",ES221:Comedy Central
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52386
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES029ClanTve.png",ES029:Clan Tve
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2575
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES130CLANTVE.png",ES130:CLAN TVE
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29262
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES004AMCES.png",ES004:AMC ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2600
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES255AMC.png",ES255:AMC
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52352
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES178TVGalicia.png",ES178:TV Galicia
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29214
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES154GALICIATV.png",ES154:GALICIA TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29238
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES236DarkHD.png",ES236:Dark HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52371
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES032CrimenInvestigation.png",ES032:Crimen Investigation
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2572
-#EXTINF:-1 ,#0 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2603
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES003A&EES.png",ES003:A&E ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2601
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES081SOMOS.png",ES081:SOMOS
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29311
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES033Cuatro.png",ES033:Cuatro
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2571
-#EXTINF:-1 ,#0
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29298
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES124SyfyHD.png",ES124:Syfy HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29268
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES159NCuatroHD.png",ES159:N Cuatro HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29233
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES176TELESURHD.png",ES176:TELESUR HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29216
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES179TV3Cat.png",ES179:TV3 Cat
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29213
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES180TVE24H.png",ES180:TVE 24H
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29212
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES181TVEInternacional.png",ES181:TVE Internacional
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29211
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES194Cuatro.png",ES194:Cuatro
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52413
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES195NCuatroHD.png",ES195:N Cuatro HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52412
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES199RTVA.png",ES199:RTVA
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52408
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES163Teledeporte.png",ES163:Teledeporte
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29229
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES009BarcaTV.png",ES009:Barca TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2595
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES153BARCATV.png",ES153:BARCA TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29239
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES182M1.png",ES182:Movistar Liga de Campeones 1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52425
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES151RealMadridTV.png",ES151:Real Madrid TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29241
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES243RealMadridTV.png",ES243:RealMadrid TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52364
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES242MovistarF1.png",ES242:Movistar F1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52365
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES190MGOLFHD.png",ES190:M GOLF HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52417
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES017MFutbol.png",ES017:M.Deportes
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2587
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES045GOLTV.png",ES045:GOL TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2559
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES183M2.png",ES183:Movistar Liga de Campeones 2
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52424
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES274EUROSPORT1.png",ES274:EUROSPORT 1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52333
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES275EUROSPORT2.png",ES275:EUROSPORT 2
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52332
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES089LaLigaBARHD.png",ES089:La Liga BAR HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29303
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES133M. DEPORTES 1.png",ES133:M. DEPORTES 1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29259
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES173MLigadeCampeones4.png",ES173:Movistar Liga de Campeones
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29219
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES172:DaznES.png",ES172:Dazn ES ( Match time only)
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29220
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES051LaLigaTV.png",ES051:LaLiga TV Bar
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2553
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES014MDeportes2.png",ES014:M Deportes 2
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2590
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES015MDeportes1.png",ES015:M Deportes 1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2589
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES010MLigadeCam.png",ES010:M Liga de Campeones
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2594
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES018MGolf.png",ES018:M Golf
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2586
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES020Toros.png",ES020:Toros
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2584
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES026MFormula1.png",ES026:M Formula 1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2578
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES040EuroSport1.png",ES040:Euro Sport 1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2564
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES041EuroSport2.png",ES041:Euro Sport 2
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2563
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES069Teledeport.png",ES069:Teledeport
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2535
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES079Vamos.png",ES079:Vamos
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29313
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES084MLaLIGA.png",ES084:M.LaLIGA
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29308
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES085M LigadeCampeones.png",ES085:M.Liga de Campeones
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29307
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES086CanalDEPORTESHD.png",ES086:Canal  DEPORTES HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29306
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES087CanalDEPORTES2HD.png",ES087:Canal  DEPORTES 2 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29305
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES088CanalDCINEHD.png",ES088:Canal DCINE HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29304
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES092MOVISTARLiga.png",ES092:M. LaLiga HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29300
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES121MOVISTAR LaLiga.png",ES121:MOVISTAR LaLiga HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29271
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES122MOVISTAR LaLiga.png",ES122:MOVISTAR LaLiga FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29270
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES132VamosFHD.png",ES132:Vamos FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29260
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES136MLaLiga1.png",ES136:M. LaLiga 1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29256
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES137MLaLiga2.png",ES137:M. LaLiga 2
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29255
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES138MLaLiga3.png",ES138:M. LaLiga 3
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29254
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES144WillowCricke.png",ES144:Willow Cricket
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29248
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES156LaLiga123HD.png",ES156:LaLiga 123 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29236
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES185M4.png",ES185:Movistar Liga de Campeones 4
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52422
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES166DAZNMOTOGP.png",ES166:DAZN MOTO GP
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29226
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES191MFORMULA1HD.png",ES191:M FORMULA 1 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52416
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES193M FUTBOL.png",ES193:M FUTBOL HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52414
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES231TorosTv.png",ES231:Toros Tv
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52376
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES239MovistarMotoGP.png",ES239:Movistar MotoGP
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52368
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES250EUROSPORT.png",ES250:EUROSPORT
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52357
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES251CanalDeportes.png",ES251:Canal  Deportes
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52356
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES257BeinSportHD.png",ES257:BeinSport HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52350
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES258MOVISTAR LaLiga.png",ES258:MOVISTAR LaLiga HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52349
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES262CANALFormulaOne.png",ES262:CANAL Formula One
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52345
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES263CANALGOLF.png",ES263:CANAL GOLF
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52344
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES264CANALMotoGP.png",ES264:CANAL MotoGP
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52343
-#EXTINF:-1 group-title="ES Deportes" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES266CANALTorosTV.png",ES266:CANAL Toros TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52341
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES071Viajar.png",ES071:Viajar
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2533
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES083VIAJARHD.png",ES083:VIAJAR HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29309
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES145VIAJARFHD.png",ES145:VIAJAR FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29247
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES057NATGEOES.png",ES057:NAT GEO ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2547
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES228NationalGeographic.png",ES228:National Geographic
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52379
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES056NATGEOWILDES.png",ES056:NAT GEO WILD ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2548
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES229NatGeoWild.png",ES229:Nat Geo Wild
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52378
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES028CazaYPesca.png",ES028:Caza Y Pesca
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2576
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES268CAZA-Y-PESCA.png",ES268:CAZA-Y-PESCA
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52339
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES048Iberalia.png",ES048:Iberalia
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2556
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES046Historia.png",ES046:Historia
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2558
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES230Historia.png",ES230:Historia
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52377
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES129ExtremaduraTV.png",ES129:Extremadura TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29263
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES142ExtremaduraTV.png",ES142:Extremadura TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29250
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES074ExtremaduraHD.png",ES074:Extremadura HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29318
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES073DKISS.png",ES073:DKISS
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29319
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES150DKISS.png",ES150:DKISS
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29242
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES097DMAX.png",ES097:DMAX
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29295
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES238CanalDeCasa.png",ES238:Canal DeCasa
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52369
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES034DiscoveryES.png",ES034:Discovery ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2570
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES271DISCOVERY.png",ES271:DISCOVERY
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52336
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES058NEOX.png",ES058:NEOX
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2546
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES227NeoxTv.png",ES227:Neox Tv
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52380
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES042FDF.png",ES042:FDF
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2562
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES276FDFSPAIN.png",ES276:FDF SPAIN
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52331
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES272Divinity.png",ES272:Divinity °
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52335
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES082CANALCOCINA.png",ES082:CANAL COCINA
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29310
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES091CANALCOCINA.png",ES091:CANAL COCINA
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29301
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES139CANALCOCINA.png",ES139:CANAL COCINA
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29253
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES080BLAZE.png",ES080:BLAZE
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29312
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES054Mega.png",ES054:Mega
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2550
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES161Mega.png",ES161:Mega
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29231
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES234Mega.png",ES234:Mega
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52373
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES031Cosmo.png",ES031:Cosmo
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2573
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES237CosmoFHD.png",ES237:Cosmo FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52370
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES022Cocina.png",ES022:Cocina
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2582
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES024DeCasa.png",ES024:DeCasa
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2580
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES270Decasa.png",ES270:Decasa
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52337
-#EXTINF:-1 group-title="ES Cultura" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES039Energy.png",ES039:Energy
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2565
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES00224Horas.png",ES002:24 Horas
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2602
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES25324-Horas.png",ES253:24-Horas °
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52354
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES049LA1.png",ES049:LA 1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2555
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES277LA1.png",ES277:LA 1
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52330
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES068Telecinco.png",ES068:Telecinco HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2536
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES160Telecinco.png",ES160:Telecinco FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29232
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES162Telecinco.png",ES162:Telecinco
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29230
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES196TelecincoHD.png",ES196:Telecinco HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52411
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES052LaSexta.png",ES052:La Sexta HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2552
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES197lasextaHD.png",ES197:la sexta FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52410
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES072ARAGONTV.png",ES072:ARAGON TV
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29320
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES109CANALSURA.png",ES109:CANAL SUR A
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29283
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES206CanalSurHD.png",ES206:Canal Sur HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52401
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES120Nova.png",ES120:Nova
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29272
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES233Nova.png",ES233:Nova
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52374
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES063Odisea.png",ES063:Odisea
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2541
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES232OdiseaTv.png",ES232:Odisea Tv
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52375
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES128TAQUILLA6HD.png",ES128:TAQUILLA 6 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29264
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES099TAQUILLA10.png",ES099:TAQUILLA 10
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29293
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES100TAQUILLA2.png",ES100:TAQUILLA 2
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29292
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES101TAQUILLA3.png",ES101:TAQUILLA 3
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29291
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES102TAQUILLA4.png",ES102:TAQUILLA 4
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29290
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES103TAQUILLA5.png",ES103:TAQUILLA 5
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29289
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES104TAQUILLA6.png",ES104:TAQUILLA 6
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29288
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES105TAQUILLA7.png",ES105:TAQUILLA 7
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29287
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES106TAQUILLA8.png",ES106:TAQUILLA 8
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29286
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES107TAQUILLA9.png",ES107:TAQUILLA 9
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29285
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES140CanalDCINEHD.png",ES140:Canal DCINE HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29252
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES090CanalSERIESHD.png",ES090:Canal SERIES HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29302
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES168TAQUILLA2HD.png",ES168:TAQUILLA 2 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29224
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES170TAQUILLA5HD.png",ES170:TAQUILLA 5 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29222
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES171TAQUILLA7HD.png",ES171:TAQUILLA 7 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29221
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES177Antena3HD.png",ES177:Antena 3 SD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29215
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES192Antena3HD.png",ES192:Antena 3 FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52415
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES259CANALACCIONHD.png",ES259:CANAL ACCION HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52348
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES260CANALComedia.png",ES260:CANAL Comedia
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52347
-#EXTINF:-1 group-title="CINE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES265CANALSeriesXtra.png",ES265:CANAL Series Xtra
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52342
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES219MovistarEstrenos.png",ES219:Movistar Estrenos
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52388
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES013MAction.png",ES013:M Action
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2591
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES016MEstrenos.png",ES016:M Estrenos
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2588
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES214MovistarAccion.png",ES214:Movistar Accion
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52393
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES025MSERIESHD.png",ES025:M SERIES HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2579
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES077MoviStarCine.png",ES077:MoviStar Cine ?
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29315
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES053MComedia.png",ES053:M Comedia
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2551
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES215MovistarComediaHD.png",ES215:Movistar Comedia HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52392
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES078MovistarCineDoc&Roll.png",ES078:Movistar CineDoc&Roll
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29314
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES019MSeriesXtra.png",ES019:M Series Xtra
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2585
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES021MXtra.png",ES021:M Xtra
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2583
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES023MDcine.png",ES023:M Dcine
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2581
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES158MoviStarCINE.png",ES158:MoviStar CINE
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29234
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES216MovistarDCine.png",ES216:Movistar DCine
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52391
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES217MovistarXtra.png",ES217:Movistar Xtra
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52390
-#EXTINF:-1 group-title="ES Movistar" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES218MovistarSeriesXtra.png",ES218:Movistar Series Xtra
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52389
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES110Alquiler1HD.png",ES110:Alquiler 1 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29282
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES112Alquiler3HD.png",ES112:Alquiler 3 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29280
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES113Alquiler4HD.png",ES113:Alquiler 4 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29279
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES115Alquiler6HD.png",ES115:Alquiler 6 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29277
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES116Alquiler7HD.png",ES116:Alquiler 7 HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29276
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES244MovistarAlquilerPresentation.png",ES244:Movistar Alquiler Presentation
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52363
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES246MovistarAlquiler11FHD.png",ES246:Movistar Alquiler 11 FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52361
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES247MovistarAlquiler12FHD.png",ES247:Movistar Alquiler 12 FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52360
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES248MovistarAlquilerMultivision1FHD.png",ES248:Movistar Alquiler Multivision 1 FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52359
-#EXTINF:-1 group-title="ES Alquiler" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES249MovistarAlquilerMultivision2FHD.png",ES249:Movistar Alquiler Multivision 2 FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52358
-#EXTINF:-1 group-title="ES Musica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES147Classica.png",ES147:Classica
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29245
-#EXTINF:-1 group-title="ES Musica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES055MTVES.png",ES055:MTV ES
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/2549
-#EXTINF:-1 group-title="ES Musica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES235MTVespana.png",ES235:MTV espana
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/52372
-#EXTINF:-1 group-title="ES Musica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES076MEZZOLIVEHD.png",ES076:MEZZO LIVE HD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29316
-#EXTINF:-1 group-title="ES Musica" tvg-logo="http://www.tvboxgroup.com/iptv/logo/ES/ES157MEZZOLIVEFHD.png",ES157:MEZZO LIVE FHD
-http://chu2.coolmyvip.club:8880/iptvtest026/00667764/29235
-
+#EXTINF:-1 group-title="Undefined",A&E
+http://185.232.53.5:2086/gennaro/gennaro/98773?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",A&E HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/520?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ADN 40
+http://admin-mainpanel.club:8080/marcos/marcos/27746?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",AMC
+http://uruguayiptv.com:25461/Valeria/Valeria2020/572?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://uruguayiptv.com:25461/Valeria/Valeria2020/304?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ANIMAL PLANET
+http://185.232.53.5:2086/gennaro/gennaro/98774?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",AXN
+http://185.232.53.5:2086/gennaro/gennaro/92627?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",AXN
+http://uruguayiptv.com:25461/Valeria/Valeria2020/571?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",AYM SPORT
+http://uruguayiptv.com:25461/Valeria/Valeria2020/412?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",AZ CORAZON
+http://185.232.53.5:2086/gennaro/gennaro/92625?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",AZ MUNDO HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/330?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",AZTECA
+http://185.232.53.5:2086/gennaro/gennaro/66551?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",AZTECA CLICK
+http://uruguayiptv.com:25461/Valeria/Valeria2020/573?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",AZTECA MUNDO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/305?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",AZTECA UNO
+http://185.232.53.5:2086/gennaro/gennaro/92623?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Az Click
+http://uruguayiptv.com:25461/Valeria/Valeria2020/528?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Azteca Clic
+http://admin-mainpanel.club:8080/marcos/marcos/27728?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Azteca Clic FHD
+http://admin-mainpanel.club:8080/marcos/marcos/27727?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",BABY TV
+http://185.232.53.5:2086/gennaro/gennaro/92622?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",BAND SPORTS HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/11315?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",BANDAMAX
+http://185.232.53.5:2086/gennaro/gennaro/66552?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",BEIN LA LIGA FÚTBOL ESPAÑOL
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72498?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",BEIN SPORTS Ñ HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/469?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",BITME
+http://uruguayiptv.com:25461/Valeria/Valeria2020/759?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",BLOOMBERG
+http://185.232.53.5:2086/gennaro/gennaro/92620?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YdiF5k6.png",TVU
+http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/p0lsIBW.png",Xto TV
+http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",BOOMERANG
+http://185.232.53.5:2086/gennaro/gennaro/92619?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",BOOMERANG SD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/18450?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Baby TV HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/703?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Boomerang HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/700?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",CABLE ONDA SPORTS  FC FUTBOL DE PANAMA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72753?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CALLE 13 HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/530?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CANAL 22 INTERNACIONAL
+http://185.232.53.5:2086/gennaro/gennaro/66554?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CANAL ANTIGUA
+http://185.232.53.5:2086/gennaro/gennaro/92618?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CANAL COCINA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/307?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CANAL DE LAS ESTRELLAS
+http://185.232.53.5:2086/gennaro/gennaro/92617?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",CANAL PREMIERE FUTBOL BRASILERO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72749?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CANAL VIAJAR HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/1850?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CARACOL TV
+http://185.232.53.5:2086/gennaro/gennaro/66556?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CARTOON NETWORK SD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/18451?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CDF BASICO CHILE
+http://uruguayiptv.com:25461/Valeria/Valeria2020/430?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",CDF FUTBOL CHILENO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72747?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CDF PREMIUM CHILE
+http://uruguayiptv.com:25461/Valeria/Valeria2020/431?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CENTRO AMERICA TV
+http://185.232.53.5:2086/gennaro/gennaro/66557?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CINE ESTELAR
+http://185.232.53.5:2086/gennaro/gennaro/66558?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CINE MEXICANO
+http://185.232.53.5:2086/gennaro/gennaro/66559?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CINE NOSTALGIA
+http://185.232.53.5:2086/gennaro/gennaro/66560?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CINE SONY
+http://185.232.53.5:2086/gennaro/gennaro/66561?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CNN EN ESPANOL
+http://185.232.53.5:2086/gennaro/gennaro/66553?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CNN INTERNACIONAL
+http://185.232.53.5:2086/gennaro/gennaro/92611?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",COMEDY CENTRAL
+http://uruguayiptv.com:25461/Valeria/Valeria2020/575?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",COMEDY CENTRAL
+http://185.232.53.5:2086/gennaro/gennaro/98776?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",COSMO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/310?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",CRIME AND INVESTIGATION
+http://uruguayiptv.com:25461/Valeria/Valeria2020/331?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Canal 10
+http://admin-mainpanel.club:8080/marcos/marcos/27214?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Comedy Central HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/531?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/2mSwwpH.png",Cultura 24 TV
+https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DE PELICULA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/576?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DESTINATION AMERICA
+http://185.232.53.5:2086/gennaro/gennaro/66565?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",DIRECTTV SPORT
+http://185.232.53.5:2086/gennaro/gennaro/92608?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",DIRECTTV SPORT 1
+http://185.232.53.5:2086/gennaro/gennaro/92607?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",DIRECTTV SPORT 2
+http://185.232.53.5:2086/gennaro/gennaro/92606?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DIRECTV PLUS
+http://uruguayiptv.com:25461/Valeria/Valeria2020/433?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",DIRECTV SPORTS 2
+http://uruguayiptv.com:25461/Valeria/Valeria2020/434?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",DIRECTV SPORTS 2 HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/477?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY CHANNEL
+http://185.232.53.5:2086/gennaro/gennaro/92605?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY CIVILIZACIÓN HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/1844?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY EN ESPANOL
+http://185.232.53.5:2086/gennaro/gennaro/66567?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY FAMILIA
+http://185.232.53.5:2086/gennaro/gennaro/66566?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY H & H  SD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/18320?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY ID
+http://185.232.53.5:2086/gennaro/gennaro/98777?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY SCIENCE
+http://uruguayiptv.com:25461/Valeria/Valeria2020/32554?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY THEATER
+http://185.232.53.5:2086/gennaro/gennaro/92600?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY TURBO HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/32557?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISCOVERY WORLD
+http://185.232.53.5:2086/gennaro/gennaro/66651?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISNEY CHANNEL
+http://uruguayiptv.com:25461/Valeria/Valeria2020/714?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISNEY JR
+http://uruguayiptv.com:25461/Valeria/Valeria2020/715?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISNEY XD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/716?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",DISTRITO COMEDIA
+http://185.232.53.5:2086/gennaro/gennaro/92595?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Disney XD HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/695?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",E!
+http://185.232.53.5:2086/gennaro/gennaro/98779?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ECUADOR TV
+http://185.232.53.5:2086/gennaro/gennaro/66569?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",EL GARAGE TV ARGENTINA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/77729?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",EL GOURMET
+http://185.232.53.5:2086/gennaro/gennaro/92594?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",ESPN
+http://185.232.53.5:2086/gennaro/gennaro/98780?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",ESPN 2
+http://185.232.53.5:2086/gennaro/gennaro/98781?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",ESPN 2 HD ARGENTINA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/8857?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",ESPN 3
+http://185.232.53.5:2086/gennaro/gennaro/98782?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",ESPN 3 HD ARGENTINA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/454?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",ESPN 3 MEXICO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/417?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",ESPN 3 SD ARGENTINA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/8858?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",ESPN DEPORTES
+http://185.232.53.5:2086/gennaro/gennaro/66568?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",ESTRELLA TV
+http://185.232.53.5:2086/gennaro/gennaro/66572?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",FOOD NETWORK
+http://185.232.53.5:2086/gennaro/gennaro/98783?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",FORMULA 1  HD MOVISTAR
+http://uruguayiptv.com:25461/Valeria/Valeria2020/778?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",FOX
+http://185.232.53.5:2086/gennaro/gennaro/98784?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",FOX ACTION
+http://185.232.53.5:2086/gennaro/gennaro/92591?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",FOX CLASSICS
+http://185.232.53.5:2086/gennaro/gennaro/92589?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",FOX COMEDY
+http://185.232.53.5:2086/gennaro/gennaro/92588?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",FOX DEPORTES
+http://185.232.53.5:2086/gennaro/gennaro/92587?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",FOX FAMILY
+http://185.232.53.5:2086/gennaro/gennaro/98785?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",FOX SERIES
+http://185.232.53.5:2086/gennaro/gennaro/92585?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",FOX SPORT 1 HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/484?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",FOX SPORT 3 HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/486?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",FOX SPORTS 1
+http://185.232.53.5:2086/gennaro/gennaro/92584?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",FOX SPORTS 1 SD ARGENTINA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72831?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",FOX SPORTS 2
+http://185.232.53.5:2086/gennaro/gennaro/92583?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",FOX SPORTS 2 SD ARGENTINA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72838?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",FOX SPORTS 3
+http://185.232.53.5:2086/gennaro/gennaro/92582?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",Fox Series SD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/538?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",GARAGE TV
+http://185.232.53.5:2086/gennaro/gennaro/92579?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",GLITZ
+http://185.232.53.5:2086/gennaro/gennaro/92578?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",GOL TV
+http://185.232.53.5:2086/gennaro/gennaro/66576?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",GOL TV PERU FUTBOL PERUANO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72745?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",GOLDEN
+http://185.232.53.5:2086/gennaro/gennaro/66670?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",GOLDEN EDGE
+http://185.232.53.5:2086/gennaro/gennaro/92575?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",H2 HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/343?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HBO
+http://185.232.53.5:2086/gennaro/gennaro/92572?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HBO 2
+http://185.232.53.5:2086/gennaro/gennaro/92571?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HBO FAMILY
+http://185.232.53.5:2086/gennaro/gennaro/92570?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HBO LATINO
+http://185.232.53.5:2086/gennaro/gennaro/66579?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HBO PLUS
+http://185.232.53.5:2086/gennaro/gennaro/92569?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HBO SIGNATURE
+http://185.232.53.5:2086/gennaro/gennaro/66678?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HISTORY
+http://185.232.53.5:2086/gennaro/gennaro/92567?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HISTORY 2
+http://185.232.53.5:2086/gennaro/gennaro/92566?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HISTORY EN ESPANOL
+http://185.232.53.5:2086/gennaro/gennaro/66582?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HITN
+http://185.232.53.5:2086/gennaro/gennaro/66580?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HLN
+http://uruguayiptv.com:25461/Valeria/Valeria2020/323?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HLN
+http://185.232.53.5:2086/gennaro/gennaro/66581?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",HOLA TV
+http://185.232.53.5:2086/gennaro/gennaro/66583?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",MAS CHIC
+http://185.232.53.5:2086/gennaro/gennaro/92562?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",MAX UP
+http://185.232.53.5:2086/gennaro/gennaro/92559?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",NAT GEO
+http://185.232.53.5:2086/gennaro/gennaro/92553?checkedby:hlscat.com
+#EXTINF:-1 group-title="Kids",NAT GEO KIDS
+http://uruguayiptv.com:25461/Valeria/Valeria2020/709?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",NATIONAL GEOGRAPHIC
+http://uruguayiptv.com:25461/Valeria/Valeria2020/351?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",PARAMOUNT CHANNEL
+http://185.232.53.5:2086/gennaro/gennaro/92542?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",PASIONES
+http://185.232.53.5:2086/gennaro/gennaro/66590?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",PERU MAGICO
+http://185.232.53.5:2086/gennaro/gennaro/66591?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/B89KuHO.png",Pax TV
+https://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",RCN NOVELAS CO
+http://185.232.53.5:2086/gennaro/gennaro/86839?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",RITMOSON
+http://185.232.53.5:2086/gennaro/gennaro/92539?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",SHOWTIME EAST
+http://185.232.53.5:2086/gennaro/gennaro/92535?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",SKY PREMIER FUTBOL INGLES
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72751?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",SONY CHANNEL
+http://185.232.53.5:2086/gennaro/gennaro/92533?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",SPACE
+http://185.232.53.5:2086/gennaro/gennaro/92532?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",STAR TVE
+http://uruguayiptv.com:25461/Valeria/Valeria2020/580?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",STARZ EAST
+http://185.232.53.5:2086/gennaro/gennaro/92527?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",STARZ ENCORE
+http://185.232.53.5:2086/gennaro/gennaro/92525?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",STUDIO UNIVERSAL
+http://185.232.53.5:2086/gennaro/gennaro/92515?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",SUR PERU
+http://185.232.53.5:2086/gennaro/gennaro/66592?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",SYFY
+http://185.232.53.5:2086/gennaro/gennaro/92514?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",SyFy HD
+http://uruguayiptv.com:25461/Valeria/Valeria2020/555?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TCM
+http://185.232.53.5:2086/gennaro/gennaro/92512?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",TD+ FUTBOL COSTA RICA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72752?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/aH9uKk0.jpg",TELEFORMULA
+https://wms30.tecnoxia.com/radiof/abr_radioftele/radiof/radioftele_source/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TELENOVELAS
+http://185.232.53.5:2086/gennaro/gennaro/92491?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TELEPACIFICO
+http://185.232.53.5:2086/gennaro/gennaro/92490?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",TIGO SPORTS 2 PARAGUAY
+http://uruguayiptv.com:25461/Valeria/Valeria2020/507?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",TIGO SPORTS FUTBOL BOLIVIANO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72746?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TNT
+http://185.232.53.5:2086/gennaro/gennaro/92485?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TOONCAST
+http://uruguayiptv.com:25461/Valeria/Valeria2020/706?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",TUDN
+http://185.232.53.5:2086/gennaro/gennaro/66593?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",TUDN FUTBOL MEXICANO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72743?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",TYC SPORTS
+http://185.232.53.5:2086/gennaro/gennaro/66601?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",TYC SPORTS ARGENTINA
+http://uruguayiptv.com:25461/Valeria/Valeria2020/56346?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",TYC SPORTS FUTBOL ARGENTINO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/27631?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",UFC Fight Pass
+http://uruguayiptv.com:25461/Valeria/Valeria2020/24942?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",UNIVERSAL
+http://uruguayiptv.com:25461/Valeria/Valeria2020/587?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",UNIVERSAL CHANNEL
+http://uruguayiptv.com:25461/Valeria/Valeria2020/569?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",UNIVISION DEPORTES
+http://185.232.53.5:2086/gennaro/gennaro/21595?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",UNIVISION TDN
+http://185.232.53.5:2086/gennaro/gennaro/66723?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",VTV FUTBOL URUGUAYO
+http://uruguayiptv.com:25461/Valeria/Valeria2020/72748?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",WAPA AMERICA
+http://185.232.53.5:2086/gennaro/gennaro/66610?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",WARNER
+http://185.232.53.5:2086/gennaro/gennaro/92458?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",WARNER CH
+http://uruguayiptv.com:25461/Valeria/Valeria2020/586?checkedby:hlscat.com
+#EXTINF:-1 group-title="Undefined",WE TV
+http://185.232.53.5:2086/gennaro/gennaro/66611?checkedby:hlscat.com
+#EXTINF:-1 group-title="Sport",WIN SPORTS
+http://185.232.53.5:2086/gennaro/gennaro/98797?checkedby:hlscat.com
