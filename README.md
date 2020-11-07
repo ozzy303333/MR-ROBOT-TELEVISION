@@ -2931,10 +2931,6 @@ http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwusus
 http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/2121
 #EXTINF:-1 group-title="DP Y EVENTOS",BARCELONA VS REALMADRID
 http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/2122
-
-
-
-
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png",FOX LIFE
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/10
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Fox_Channel_logo.svg/1280px-Fox_Channel_logo.svg.png",FOX CHANEL
