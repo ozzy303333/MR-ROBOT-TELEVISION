@@ -107,6 +107,118 @@ http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwusus
 http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/57
 #EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: FOOD NETWORK TP MX
 http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/58
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | A&E
+http://appstv.us:25461/lozanos/tvmulti/38
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | A3S
+http://appstv.us:25461/lozanos/tvmulti/41
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | ADN40
+http://appstv.us:25461/lozanos/tvmulti/42
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Affizionados
+http://appstv.us:25461/lozanos/tvmulti/43
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | AMC
+http://appstv.us:25461/lozanos/tvmulti/44
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Animal Planet
+http://appstv.us:25461/lozanos/tvmulti/45
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | AXN
+http://appstv.us:25461/lozanos/tvmulti/47
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | AXN White
+http://appstv.us:25461/lozanos/tvmulti/48
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | AyM Sports
+http://appstv.us:25461/lozanos/tvmulti/49
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | AZ Cinema
+http://appstv.us:25461/lozanos/tvmulti/50
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | AZ Corazon
+http://appstv.us:25461/lozanos/tvmulti/51
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | AZ Mundo
+http://appstv.us:25461/lozanos/tvmulti/52
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Azteca 1
+http://appstv.us:25461/lozanos/tvmulti/53
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Azteca 7
+http://appstv.us:25461/lozanos/tvmulti/54
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",LATINO | BABY FIRTS
+http://appstv.us:25461/lozanos/tvmulti/899
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | beIN Sports
+http://appstv.us:25461/lozanos/tvmulti/56
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | beIN Sports La Liga
+http://appstv.us:25461/lozanos/tvmulti/57
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Boomerang
+http://appstv.us:25461/lozanos/tvmulti/58
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Canal 11
+http://appstv.us:25461/lozanos/tvmulti/59
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Canal 5
+http://appstv.us:25461/lozanos/tvmulti/60
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Canal De Las Estrellas
+http://appstv.us:25461/lozanos/tvmulti/61
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Cartoon Network
+http://appstv.us:25461/lozanos/tvmulti/63
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",LATINO | CGTN ESPANOL
+http://appstv.us:25461/lozanos/tvmulti/961
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | CineCanal
+http://appstv.us:25461/lozanos/tvmulti/64
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | CineLatino
+http://appstv.us:25461/lozanos/tvmulti/65
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Cinemax
+http://appstv.us:25461/lozanos/tvmulti/66
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | CNN en Espanol
+http://appstv.us:25461/lozanos/tvmulti/67
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Comedy Central
+http://appstv.us:25461/lozanos/tvmulti/68
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | De Pelicula
+http://appstv.us:25461/lozanos/tvmulti/69
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",LATINO | DIRECTV SPORTS
+http://appstv.us:25461/lozanos/tvmulti/1047
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",LATINO | DIRECTV SPORTS 2
+http://appstv.us:25461/lozanos/tvmulti/1048
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery Channel
+http://appstv.us:25461/lozanos/tvmulti/70
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery Civilization
+http://appstv.us:25461/lozanos/tvmulti/71
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery en Espanol
+http://appstv.us:25461/lozanos/tvmulti/72
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery Familia
+http://appstv.us:25461/lozanos/tvmulti/73
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery H&H
+http://appstv.us:25461/lozanos/tvmulti/74
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery ID
+http://appstv.us:25461/lozanos/tvmulti/75
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery Kids
+http://appstv.us:25461/lozanos/tvmulti/76
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery Science
+http://appstv.us:25461/lozanos/tvmulti/77
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery Theater
+http://appstv.us:25461/lozanos/tvmulti/78
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery TLC
+http://appstv.us:25461/lozanos/tvmulti/79
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Discovery Turbo
+http://appstv.us:25461/lozanos/tvmulti/80
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Distrito Comedia
+http://appstv.us:25461/lozanos/tvmulti/85
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | E!
+http://appstv.us:25461/lozanos/tvmulti/86
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | El Garage
+http://appstv.us:25461/lozanos/tvmulti/87
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | El Gourmet
+http://appstv.us:25461/lozanos/tvmulti/88
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | ESPN
+http://appstv.us:25461/lozanos/tvmulti/89
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | ESPN 2
+http://appstv.us:25461/lozanos/tvmulti/90
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | ESPN 3
+http://appstv.us:25461/lozanos/tvmulti/91
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | ESPN Deportes
+http://appstv.us:25461/lozanos/tvmulti/92
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | ESPN Plus
+http://appstv.us:25461/lozanos/tvmulti/93
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Estrella TV
+http://appstv.us:25461/lozanos/tvmulti/94
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",LATINO | FILMS ART
+http://appstv.us:25461/lozanos/tvmulti/1152
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Food Network
+http://appstv.us:25461/lozanos/tvmulti/95
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | Foro TV
+http://appstv.us:25461/lozanos/tvmulti/96
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="http://127.0.0.1/",Latino | FOX
+http://appstv.us:25461/lozanos/tvmulti/97
 #EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: HOLA !TV SD*
 http://zufreelist.net:8080/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/Iptv367383kwjwususjsjsjduuduejdudheIptv367383kwjwususjsjsjduuduejdudhe/59
 #EXTINF:-1 group-title="ENTRETENIMIENTO",ENTRE: LIFE TIME SD*
