@@ -3053,6 +3053,10 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/124
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/125
 #EXTINF:-1 group-title="MÉXICO" tvg-logo="https://cdn131.picsart.com/278369787022211.png",ADN 40
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/126
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://127.0.0.1/",COLOMBIA | CITY TV
+http://appstv.us:25461/lozanos/tvmulti/524
+#EXTINF:-1 group-title="COLOMBIA" tvg-logo="http://127.0.0.1/",COLOMBIA | NTN24
+http://appstv.us:25461/lozanos/tvmulti/517
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png",RCN
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/127
 #EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://2.bp.blogspot.com/-q1-No2xCa98/VnivktNNkBI/AAAAAAAAAS0/2mu3jh93u9o/s1600-r/80C.png",MALCOLM
@@ -3069,6 +3073,45 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/132
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/133
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png",COMEDY CENTRAL
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/134
+http://appstv.us:25461/lozanos/tvmulti/956
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| 90s
+http://appstv.us:25461/lozanos/tvmulti/557
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Alternative
+http://appstv.us:25461/lozanos/tvmulti/558
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Brits   Hits
+http://appstv.us:25461/lozanos/tvmulti/559
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Dance/EDM
+http://appstv.us:25461/lozanos/tvmulti/560
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Hit List
+http://appstv.us:25461/lozanos/tvmulti/562
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Indie
+http://appstv.us:25461/lozanos/tvmulti/563
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Metal
+http://appstv.us:25461/lozanos/tvmulti/565
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Mexicana
+http://appstv.us:25461/lozanos/tvmulti/566
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Musica Urbana
+http://appstv.us:25461/lozanos/tvmulti/567
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Pop & Country
+http://appstv.us:25461/lozanos/tvmulti/568
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Pop Hits
+http://appstv.us:25461/lozanos/tvmulti/569
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Pop Latino
+http://appstv.us:25461/lozanos/tvmulti/570
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Rap
+http://appstv.us:25461/lozanos/tvmulti/572
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Rock
+http://appstv.us:25461/lozanos/tvmulti/574
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Teen Beats
+http://appstv.us:25461/lozanos/tvmulti/575
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Throwback Jamz
+http://appstv.us:25461/lozanos/tvmulti/576
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Today's Country
+http://appstv.us:25461/lozanos/tvmulti/577
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Toddler Tunes
+http://appstv.us:25461/lozanos/tvmulti/578
+#EXTINF:-1 group-title="MUSICALES" tvg-logo="http://127.0.0.1/",Music Choice| Tropicales
+http://appstv.us:25461/lozanos/tvmulti/579
 #EXTINF:-1 group-title="MUSICALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/1200px-VH1_logonew.svg.png",VH1
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/135
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Canal_DHE_logo.svg/1280px-Canal_DHE_logo.svg.png",DHE
@@ -3083,6 +3126,70 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/139
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/140
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://help.foxplay.com/hc/article_attachments/360023531111/FOX_Classics_HD.png",FOX CLASSICS
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/141
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX Life
+http://appstv.us:25461/lozanos/tvmulti/102
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX PREMIUM Action
+http://appstv.us:25461/lozanos/tvmulti/98
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX PREMIUM Cinema
+http://appstv.us:25461/lozanos/tvmulti/99
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX PREMIUM Classic
+http://appstv.us:25461/lozanos/tvmulti/100
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX PREMIUM Family
+http://appstv.us:25461/lozanos/tvmulti/101
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX PREMIUM Movies
+http://appstv.us:25461/lozanos/tvmulti/103
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX PREMIUM Series
+http://appstv.us:25461/lozanos/tvmulti/104
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",LATINO | FOX PREMIUN COMEDY
+http://appstv.us:25461/lozanos/tvmulti/754
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX Sports
+http://appstv.us:25461/lozanos/tvmulti/105
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX Sports 2
+http://appstv.us:25461/lozanos/tvmulti/106
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FOX Sports 3
+http://appstv.us:25461/lozanos/tvmulti/107
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FX
+http://appstv.us:25461/lozanos/tvmulti/111
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | FXM
+http://appstv.us:25461/lozanos/tvmulti/112
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | Gala TV
+http://appstv.us:25461/lozanos/tvmulti/113
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | Glitz
+http://appstv.us:25461/lozanos/tvmulti/114
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | Gol TV
+http://appstv.us:25461/lozanos/tvmulti/115
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",LATINO | GOLDEN
+http://appstv.us:25461/lozanos/tvmulti/757
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | Golden EDGE
+http://appstv.us:25461/lozanos/tvmulti/116
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | Golden Plus
+http://appstv.us:25461/lozanos/tvmulti/117
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",LATINO | GOLDEN PREMIER
+http://appstv.us:25461/lozanos/tvmulti/756
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | Golf Channel
+http://appstv.us:25461/lozanos/tvmulti/39
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | HBO
+http://appstv.us:25461/lozanos/tvmulti/118
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | HBO 2
+http://appstv.us:25461/lozanos/tvmulti/119
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | HBO Family
+http://appstv.us:25461/lozanos/tvmulti/120
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",LATINO | HBO MUNDI
+http://appstv.us:25461/lozanos/tvmulti/1112
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | HBO Plus
+http://appstv.us:25461/lozanos/tvmulti/121
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | HBO POP
+http://appstv.us:25461/lozanos/tvmulti/129
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",LATINO | HBO SIGNATURE
+http://appstv.us:25461/lozanos/tvmulti/755
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | HBO XTREME
+http://appstv.us:25461/lozanos/tvmulti/128
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | History 2
+http://appstv.us:25461/lozanos/tvmulti/122
+#EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="http://127.0.0.1/",Latino | History Channel
+http://appstv.us:25461/lozanos/tvmulti/123
+
+
 #EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Dragon_Ball_GT_logo.png",DRAGON BALL GT
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/142
 #EXTINF:-1 group-title="CANALES 24/7" tvg-logo="https://i.pinimg.com/originals/60/a9/61/60a96199afa8469b7c3c46810ed86816.png",DRAGON BALL Z
