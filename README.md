@@ -1,6 +1,5 @@
 #EXTM3U
-CANALES TV
-#EXTINF:-1,FOX CLASSICS
+#EXTINF:-1 ,FOX CLASSICS
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/141
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png",FOX LIFE
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/10
@@ -68,7 +67,6 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/75
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/79
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/DistritoComediaLOGO2018.png",DISTRITO COMEDIA
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/80
-
 #EXTINF:-1 group-title="CULTURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Discovery_Science_2017_Logo.svg/1024px-Discovery_Science_2017_Logo.svg.png",DICOVERY SCIENCE
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/113
 #EXTINF:-1 group-title="CULTURAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png",DISCOVERY THEATHER
@@ -79,23 +77,3 @@ http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/115
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/118
 #EXTINF:-1 group-title="CULTURAL" tvg-logo="https://www.pngkit.com/png/full/987-9872747_cnn-international-logo-png-cnn-logo.png",CNN
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/119
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
