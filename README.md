@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="NACIONALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/LogoNTyLR.svg/1200px-LogoNTyLR.svg.png",RCN
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/127
-#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://2.bp.blogspot.com/-q1-No2xCa98/VnivktNNkBI/AAAAAAAAAS0/2mu3jh93u9o/s1600-r/80C.png",MALCOLM
-http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/128
+#EXTINF:-1 group-title="NACIONALES" tvg-logo="https://seeklogo.com/images/C/caracol-television-2017-logo-E3E35240F8-seeklogo.com.png",CARACOL
+http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/106
 #EXTINF:-1 ,FOX CLASSICS
 http://experiencetv.zapto.org:25468/expertvsinxxx1/expersinxx/141
 #EXTINF:-1 group-title="CINE PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/FoxLife.png",FOX LIFE
