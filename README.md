@@ -1,90 +1,91 @@
 #EXTM3U
-#EXTINF:-1,CO - Canal UNO
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Canal UNO
 http://latvonlive.com:33612/Pablo/1234/201
-#EXTINF:-1,CO - Caracol HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Caracol HD
 http://latvonlive.com:33612/Pablo/1234/200
-#EXTINF:-1,CO - Caracol Internacional
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Caracol Internacional
 http://latvonlive.com:33612/Pablo/1234/7
-#EXTINF:-1,CO - City TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",City TV
 http://latvonlive.com:33612/Pablo/1234/199
-#EXTINF:-1,CO - RCN HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",RCN HD
 http://latvonlive.com:33612/Pablo/1234/197
-#EXTINF:-1,CO - RCN Internacional HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",RCN Internacional HD
 http://latvonlive.com:33612/Pablo/1234/6
-#EXTINF:-1,CO - Teleantioquia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Teleantioquia
 http://latvonlive.com:33612/Pablo/1234/646
-#EXTINF:-1,CO - Telecafé
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Telecafé
 http://latvonlive.com:33612/Pablo/1234/645
-#EXTINF:-1,CO - Telecaribe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Telecaribe
 http://latvonlive.com:33612/Pablo/1234/644
-#EXTINF:-1,CO - Telemedellín
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Telemedellín
 http://latvonlive.com:33612/Pablo/1234/5712
-#EXTINF:-1,CO - TelePacifico HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",TelePacifico HD
 http://latvonlive.com:33612/Pablo/1234/133
-#EXTINF:-1,CO - Win Sports HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Win Sports HD
 http://latvonlive.com:33612/Pablo/1234/191
-#EXTINF:-1,CO - Win Sports+ HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Win Sports+ HD
 http://latvonlive.com:33612/Pablo/1234/5715
 
 
 
 
 
-#EXTINF:-1,AR - Canal 9
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Canal 9
 http://latvonlive.com:33612/Pablo/1234/213
-#EXTINF:-1,AR - El Trece
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",El Trece
 http://latvonlive.com:33612/Pablo/1234/210
-#EXTINF:-1,AR - Telefe
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Telefe
 http://latvonlive.com:33612/Pablo/1234/205
-#EXTINF:-1,AR - Telefe Internacional HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Telefe Internacional HD
 http://latvonlive.com:33612/Pablo/1234/157
-#EXTINF:-1,AR - TN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",TN
 http://latvonlive.com:33612/Pablo/1234/203
-#EXTINF:-1,AR - Tv Publica
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Tv Publica
+
 http://latvonlive.com:33612/Pablo/1234/202
-#EXTINF:-1,BR - Cartoon Network HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Cartoon Network HD
 http://latvonlive.com:33612/Pablo/1234/85
-#EXTINF:-1,BR - Space HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Space HD
 http://latvonlive.com:33612/Pablo/1234/87
-#EXTINF:-1,BR - TNT Series HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",TNT Series HD
 http://latvonlive.com:33612/Pablo/1234/86
-#EXTINF:-1,CL - 24 Horas TVN
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",24 Horas TVN
 http://latvonlive.com:33612/Pablo/1234/352
-#EXTINF:-1,CL - Canal 13 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Canal 13 HD
 http://latvonlive.com:33612/Pablo/1234/353
-#EXTINF:-1,CL - CDF Basico Chile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",CDF Basico Chile
 http://latvonlive.com:33612/Pablo/1234/901
-#EXTINF:-1,CL - CDF HD Chile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",CDF HD Chile
 http://latvonlive.com:33612/Pablo/1234/348
-#EXTINF:-1,CL - CDF Premium Chile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",CDF Premium Chile
 http://latvonlive.com:33612/Pablo/1234/903
-#EXTINF:-1,CL - Mega
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Mega
 http://latvonlive.com:33612/Pablo/1234/336
-#EXTINF:-1,CL - TV Chile
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",TV Chile
 http://latvonlive.com:33612/Pablo/1234/575
 
-#EXTINF:-1,EC - Canal Uno HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Canal Uno HD
 http://latvonlive.com:33612/Pablo/1234/596
-#EXTINF:-1,EC - Ecuavisa
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Ecuavisa
 http://latvonlive.com:33612/Pablo/1234/570
-#EXTINF:-1,EC - Gamavisión
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Gamavisión
 http://latvonlive.com:33612/Pablo/1234/572
-#EXTINF:-1,EC - RTS
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",RTS
 http://latvonlive.com:33612/Pablo/1234/568
-#EXTINF:-1,EC - TC Television
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",TC Television
 http://latvonlive.com:33612/Pablo/1234/571
-#EXTINF:-1,EC - Teleamazonas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Teleamazonas
 http://latvonlive.com:33612/Pablo/1234/566
-#EXTINF:-1,PE - America TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",America TV
 http://latvonlive.com:33612/Pablo/1234/573
-#EXTINF:-1,PE - ATV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",ATV
 http://latvonlive.com:33612/Pablo/1234/178
-#EXTINF:-1,PE - Gol TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Gol TV
 http://latvonlive.com:33612/Pablo/1234/176
-#EXTINF:-1,PE - Latina
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Latina
 http://latvonlive.com:33612/Pablo/1234/175
-#EXTINF:-1,PE - Panamericana
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",Panamericana
 http://latvonlive.com:33612/Pablo/1234/170
-#EXTINF:-1,PE - TV Peru HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="FOTOD.JPG" group-title="TELEVISION",TV Peru HD
 http://latvonlive.com:33612/Pablo/1234/167
 
