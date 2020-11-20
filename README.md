@@ -61,7 +61,102 @@ http://zufreelist.net:8080/REFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAE
 http://zufreelist.net:8080/REFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERG/REFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREFVCAFVARVAERVAERVAREGAERGAERGSAERGREF/32
 #EXTINF:0 tvg-name="RCN HD 1  | CO " tvg-logo="Logo N/A" tvg-ID="" group-title="GENERAL",RCN HD 1  | CO 
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZStNulu_2-bMWaV_S8bXji0)
-
+#EXTINF:0 tvg-name="COL-Claro Sports (M)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" tvg-ID="" group-title="GENERAL",COL-Claro Sports (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22141
+#EXTINF:0 tvg-name="COL-Claro Sports (M)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" tvg-ID="" group-title="GENERAL",COL-Claro Sports (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22142
+#EXTINF:0 tvg-name="COL-Directv Sports 1 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-aTVCBIaluIM/X3IhPF0kfxI/AAAAAAAABiI/4FRSaBRNEmQU9qTwk7c12euj978Xf0e5ACLcBGAsYHQ/w200-h200/Directv%2B1.png" tvg-ID="" group-title="GENERAL",COL-Directv Sports 1 (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54233
+#EXTINF:0 tvg-name="COL-Directv Sports 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/--1wAuVnie9c/X3IhO1kRubI/AAAAAAAABiE/6x7VKvMhSZYABdD7DJRjQXmjGWu2KytagCLcBGAsYHQ/w200-h200/Directv2.png" tvg-ID="" group-title="GENERAL",COL-Directv Sports 2 (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54234
+#EXTINF:0 tvg-name="COL-WinSports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="GENERAL",COL-WinSports (M)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/3419
+#EXTINF:0 tvg-name="COL-WinSports (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="GENERAL",COL-WinSports (M)(SD)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/3420
+#EXTINF:0 tvg-name="COL-Win Sports (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="GENERAL",COL-Win Sports (TV)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54299
+#EXTINF:0 tvg-name="COL-Win Sports (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="GENERAL",COL-Win Sports (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54298
+#EXTINF:0 tvg-name="COL-Win Sports + (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" tvg-ID="" group-title="GENERAL",COL-Win Sports + (TV)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54300
+#EXTINF:0 tvg-name="COL-Winsport + (tr)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" tvg-ID="" group-title="GENERAL",COL-Winsport + (tr)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59855
+#EXTINF:0 tvg-name="COL-Winsports (tr)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="GENERAL",COL-Winsports (tr)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59856
+#EXTINF:0 tvg-name="COL-Canal Uno (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png" tvg-ID="" group-title="GENERAL",COL-Canal Uno (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53533
+#EXTINF:0 tvg-name="COL-Canal Uno (tr)(720)" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png" tvg-ID="" group-title="GENERAL",COL-Canal Uno (tr)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59846
+#EXTINF:0 tvg-name="COL-Caracol (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="GENERAL",COL-Caracol (M)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22146
+#EXTINF:0 tvg-name="COL-Caracol (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="GENERAL",COL-Caracol (TV)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53534
+#EXTINF:0 tvg-name="COL-Caracol (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="GENERAL",COL-Caracol (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22145
+#EXTINF:0 tvg-name="COL-Caracol (tr)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="GENERAL",COL-Caracol (tr)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59848
+#EXTINF:0 tvg-name="COL-Caracol 2 (tr)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="GENERAL",COL-Caracol 2 (tr)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59847
+#EXTINF:0 tvg-name="COL-Caracol (M) (SD)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="GENERAL",COL-Caracol (M) (SD)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22144
+#EXTINF:0 tvg-name="COL-Caracol Internacional (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ZPyxVnk8WeA/XbDQumlWx4I/AAAAAAAAAoQ/8lE0ENHHPykGNXyTS0aOpSAwEi9GZFckACLcBGAsYHQ/s200/10.png" tvg-ID="" group-title="GENERAL",COL-Caracol Internacional (M)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53535
+#EXTINF:0 tvg-name="COL-RCN (1080) (M)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="GENERAL",COL-RCN (1080) (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22137
+#EXTINF:0 tvg-name="COL-RCN (tr)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="GENERAL",COL-RCN (tr)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59852
+#EXTINF:0 tvg-name="COL-RCN (720) (M)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="GENERAL",COL-RCN (720) (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22136
+#EXTINF:0 tvg-name="COL-RCN (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="GENERAL",COL-RCN (TV)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53536
+#EXTINF:0 tvg-name="COL-RCN (SD) (M)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="GENERAL",COL-RCN (SD) (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22135
+#EXTINF:0 tvg-name="COL-RCN 2 (tr)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="GENERAL",COL-RCN 2 (tr)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59853
+#EXTINF:0 tvg-name="COL-RCN Internacional (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-7oL6rsMKBkM/XjbrWuu9FTI/AAAAAAAAA_E/epPt7G8w014-WYYWc_ytp_LyFdItKkmfQCLcBGAsYHQ/s200/27.png" tvg-ID="" group-title="GENERAL",COL-RCN Internacional (TV)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53562
+#EXTINF:0 tvg-name="COL- RCN Internacional (M)" tvg-logo="https://1.bp.blogspot.com/-7oL6rsMKBkM/XjbrWuu9FTI/AAAAAAAAA_E/epPt7G8w014-WYYWc_ytp_LyFdItKkmfQCLcBGAsYHQ/s200/27.png" tvg-ID="" group-title="GENERAL",COL- RCN Internacional (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22138
+#EXTINF:0 tvg-name="COL-RCN Novelas (M)" tvg-logo="https://1.bp.blogspot.com/-nlUknDNIXlU/XbDQwgY043I/AAAAAAAAAog/FKt_hvgE8sIwouXT_hpmxcCIoIZAS5jJACLcBGAsYHQ/s200/15.png" tvg-ID="" group-title="GENERAL",COL-RCN Novelas (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22133
+#EXTINF:0 tvg-name="COL-RCN Novelas (tr)(SD)" tvg-logo="https://1.bp.blogspot.com/-nlUknDNIXlU/XbDQwgY043I/AAAAAAAAAog/FKt_hvgE8sIwouXT_hpmxcCIoIZAS5jJACLcBGAsYHQ/s200/15.png" tvg-ID="" group-title="GENERAL",COL-RCN Novelas (tr)(SD)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59854
+#EXTINF:0 tvg-name="COL-RCN Nuestra Tele (M)" tvg-logo="https://1.bp.blogspot.com/-D_fKGhbIo0A/XjbsMVuamQI/AAAAAAAAA_Q/ZOGFVYBo_DkSXZuXr4RPRnfw3HVVcz7hQCLcBGAsYHQ/s200/28.png" tvg-ID="" group-title="GENERAL",COL-RCN Nuestra Tele (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22134
+#EXTINF:0 tvg-name="COL-Cable Noticias (tr)(1080)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" tvg-ID="" group-title="GENERAL",COL-Cable Noticias (tr)(1080)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59845
+#EXTINF:0 tvg-name="COL-Cable Noticias (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" tvg-ID="" group-title="GENERAL",COL-Cable Noticias (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53550
+#EXTINF:0 tvg-name="COL-Canal TRO (M)" tvg-logo="https://1.bp.blogspot.com/-wcjf9GtXs0s/XbDQ0lIiIOI/AAAAAAAAApU/BGJhluQypTkcChv-KNpKBs9ggkCsMCqqQCLcBGAsYHQ/s200/6.png" tvg-ID="" group-title="GENERAL",COL-Canal TRO (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22140
+#EXTINF:0 tvg-name="COL-Cantinazo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-V9QeuhBwnxk/X3JDDGfArFI/AAAAAAAABks/e03wPSHkoTMsgRaqBYhBqkXvAjLaQIsngCLcBGAsYHQ/w200-h200/Cantinazo.png" tvg-ID="" group-title="GENERAL",COL-Cantinazo (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53552
+#EXTINF:0 tvg-name="COL-City Tv (TV)" tvg-logo="https://1.bp.blogspot.com/-Ku1Pv3IrW7o/X3IubH8boTI/AAAAAAAABkE/BvFiBQ437MIEhnL5M4Z7l61HtGX9e7QdwCLcBGAsYHQ/w200-h200/City%2Btv.png" tvg-ID="" group-title="GENERAL",COL-City Tv (TV)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53553
+#EXTINF:0 tvg-name="COL-TV Agro (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-QFD7HnsLCKs/X3Irz_DnKfI/AAAAAAAABjY/bqXo7qn-MmkSIx4pMnWUZr_pJ5bUV7aPgCLcBGAsYHQ/w200-h200/Tv%2Bagro.png" tvg-ID="" group-title="GENERAL",COL-TV Agro (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53557
+#EXTINF:0 tvg-name="COL-El Tiempo (TV)" tvg-logo="https://1.bp.blogspot.com/-ZfPk7CZDuF0/X3IuMx8HCqI/AAAAAAAABkA/nNgMEW-pVeIAB9HnW2tXTxWAyG-PTq_mgCLcBGAsYHQ/w200-h200/El%2Btiempo.png" tvg-ID="" group-title="GENERAL",COL-El Tiempo (TV)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53554
+#EXTINF:0 tvg-name="COL-La Kalle (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-UZpNbJJ0IaA/X3Is_i5ttxI/AAAAAAAABj0/MYZIYJz_ZecgPCOdfwk3DzmI-qcXjmAYgCLcBGAsYHQ/w200-h200/La%2Bkalle.png" tvg-ID="" group-title="GENERAL",COL-La Kalle (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53555
+#EXTINF:0 tvg-name="COL-NTN24 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-dgEzsx4CnZ0/X3JEMbsOJvI/AAAAAAAABk4/PPbEgQ4Dip8Lcw2VCq64vg8xgw0mPYXhACLcBGAsYHQ/w200-h200/Ntnt24.png" tvg-ID="" group-title="GENERAL",COL-NTN24 (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53547
+#EXTINF:0 tvg-name="COL-Pasiones (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-m1oCMFjG3ug/Xz87KGiI1EI/AAAAAAAABJ4/ArWG1xLYopM3dqWio3izvW6V-8QWOAOlwCLcBGAsYHQ/w200-h200/5%2BPasiones.png" tvg-ID="" group-title="GENERAL",COL-Pasiones (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53548
+#EXTINF:0 tvg-name="COL-TeleAntioquia (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-cH1yIo66ecM/XbDQxju7vCI/AAAAAAAAAos/cQQh4JREll4vR3RLuoWvbMNjcu4Xi26zgCLcBGAsYHQ/s200/18.png" tvg-ID="" group-title="GENERAL",COL-TeleAntioquia (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53538
+#EXTINF:0 tvg-name="COL-TeleCafe (M)" tvg-logo="https://1.bp.blogspot.com/-uymnve3YKYY/XbDQx_IKbGI/AAAAAAAAAow/jW5B9EBjV3c8Rt0i87QJcl-dSK5uOhU-QCLcBGAsYHQ/s200/19.png" tvg-ID="" group-title="GENERAL",COL-TeleCafe (M)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/5359
+#EXTINF:0 tvg-name="COL-Telecaribe (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-VG6AXntdptA/XbDQyZu-GaI/AAAAAAAAAo4/U3qWsNt4YRg8jUrk_oAygqnPBVCQNeUPwCLcBGAsYHQ/s200/20.png" tvg-ID="" group-title="GENERAL",COL-Telecaribe (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53541
+#EXTINF:0 tvg-name="COL-Teleisla (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-PZ7oALoVjT4/X3InRfIxicI/AAAAAAAABi0/k7cvGy5wMpAflXiC63tz9k0KMmu0d7-vwCLcBGAsYHQ/w200-h200/Teleislas.png" tvg-ID="" group-title="GENERAL",COL-Teleisla (TV)(SD)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53560
+#EXTINF:0 tvg-name="COL-Telemedellin (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-3W2BTrQegdw/XbDQyjKTBJI/AAAAAAAAAo8/62RahsE9FbwAzQ4XRGv3-5V6Ov163gKHACLcBGAsYHQ/s200/21.png" tvg-ID="" group-title="GENERAL",COL-Telemedellin (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53540
+#EXTINF:0 tvg-name="COL-Telepacifico (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-lUQL2xMv6jE/X3Iq83om2rI/AAAAAAAABjM/XkxlTdaFpLkuGNTN635Vw9bZrH_4yLwNgCLcBGAsYHQ/w200-h200/Telepacifico.png" tvg-ID="" group-title="GENERAL",COL-Telepacifico (TV)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53558
+#EXTINF:0 tvg-name="DOC-Mundo + (tr)(720)" tvg-logo="http://127.0.0.1/" tvg-ID="" group-title="GENERAL",DOC-Mundo + (tr)(720)
+http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/65389
 #EXTINF:0 tvg-name="24/7 Aventura (e)(1080)" tvg-logo="https://1.bp.blogspot.com/-VQyWIZ_3Qgw/XurgcYASziI/AAAAAAAACLo/R7UcVFt9sqQq6IJHBF1ew6y4v3zLoZN-wCLcBGAsYHQ/s200/Aventura.png" tvg-ID="" group-title="24 HORAS CINEMA",24/7 Aventura (e)(1080)
 http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/37931
 #EXTINF:0 tvg-name="24/7 Basado en Hechos Reales (e)(720)" tvg-logo="https://1.bp.blogspot.com/-4933wgQ-TJI/XcsQ4y5ZBNI/AAAAAAAAA04/RDkBebtGXko4XekOmijiMameKGcjVDn3gCLcBGAsYHQ/s200/documentales.png" tvg-ID="" group-title="24 HORAS CINEMA",24/7 Basado en Hechos Reales (e)(720)
@@ -1278,102 +1373,6 @@ http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/1673
 http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/1674
 #EXTINF:0 tvg-name="PPV Cinema Latino 33(M)" tvg-logo="https://1.bp.blogspot.com/-CoXx8GuPjfM/Xjb-2yWUCwI/AAAAAAAABA8/NHCyX8omFRIDGAYPtGycLTCJ-e5Y4igPwCLcBGAsYHQ/s200/2.png" tvg-ID="" group-title="*****CINEMA ESTELAR*****",PPV Cinema Latino 33(M)
 http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/1675
-#EXTINF:0 tvg-name="COL-Claro Sports (M)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Claro Sports (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22141
-#EXTINF:0 tvg-name="COL-Claro Sports (M)" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Claro Sports (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22142
-#EXTINF:0 tvg-name="COL-Directv Sports 1 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-aTVCBIaluIM/X3IhPF0kfxI/AAAAAAAABiI/4FRSaBRNEmQU9qTwk7c12euj978Xf0e5ACLcBGAsYHQ/w200-h200/Directv%2B1.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Directv Sports 1 (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54233
-#EXTINF:0 tvg-name="COL-Directv Sports 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/--1wAuVnie9c/X3IhO1kRubI/AAAAAAAABiE/6x7VKvMhSZYABdD7DJRjQXmjGWu2KytagCLcBGAsYHQ/w200-h200/Directv2.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Directv Sports 2 (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54234
-#EXTINF:0 tvg-name="COL-WinSports (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-WinSports (M)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/3419
-#EXTINF:0 tvg-name="COL-WinSports (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-WinSports (M)(SD)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/3420
-#EXTINF:0 tvg-name="COL-Win Sports (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Win Sports (TV)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54299
-#EXTINF:0 tvg-name="COL-Win Sports (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Win Sports (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54298
-#EXTINF:0 tvg-name="COL-Win Sports + (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Win Sports + (TV)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/54300
-#EXTINF:0 tvg-name="COL-Winsport + (tr)(720)" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Winsport + (tr)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59855
-#EXTINF:0 tvg-name="COL-Winsports (tr)(720)" tvg-logo="https://1.bp.blogspot.com/-ET4BGjbjvhE/XbDQzT1G3LI/AAAAAAAAApE/9SUkF9HkiE8JliWhm-IllaKmK0b6XcySwCLcBGAsYHQ/s200/23.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Winsports (tr)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59856
-#EXTINF:0 tvg-name="COL-Canal Uno (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Canal Uno (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53533
-#EXTINF:0 tvg-name="COL-Canal Uno (tr)(720)" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Canal Uno (tr)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59846
-#EXTINF:0 tvg-name="COL-Caracol (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Caracol (M)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22146
-#EXTINF:0 tvg-name="COL-Caracol (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Caracol (TV)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53534
-#EXTINF:0 tvg-name="COL-Caracol (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Caracol (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22145
-#EXTINF:0 tvg-name="COL-Caracol (tr)(1080)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Caracol (tr)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59848
-#EXTINF:0 tvg-name="COL-Caracol 2 (tr)(720)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Caracol 2 (tr)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59847
-#EXTINF:0 tvg-name="COL-Caracol (M) (SD)" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Caracol (M) (SD)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22144
-#EXTINF:0 tvg-name="COL-Caracol Internacional (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ZPyxVnk8WeA/XbDQumlWx4I/AAAAAAAAAoQ/8lE0ENHHPykGNXyTS0aOpSAwEi9GZFckACLcBGAsYHQ/s200/10.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Caracol Internacional (M)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53535
-#EXTINF:0 tvg-name="COL-RCN (1080) (M)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN (1080) (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22137
-#EXTINF:0 tvg-name="COL-RCN (tr)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN (tr)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59852
-#EXTINF:0 tvg-name="COL-RCN (720) (M)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN (720) (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22136
-#EXTINF:0 tvg-name="COL-RCN (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN (TV)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53536
-#EXTINF:0 tvg-name="COL-RCN (SD) (M)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN (SD) (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22135
-#EXTINF:0 tvg-name="COL-RCN 2 (tr)(1080)" tvg-logo="https://1.bp.blogspot.com/-vf2zeK5YmVU/XbDQxAqJTcI/AAAAAAAAAok/zLMf6Az3QDMWdLZqgmVSEk-K9zwh31GDACLcBGAsYHQ/s200/16.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN 2 (tr)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59853
-#EXTINF:0 tvg-name="COL-RCN Internacional (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-7oL6rsMKBkM/XjbrWuu9FTI/AAAAAAAAA_E/epPt7G8w014-WYYWc_ytp_LyFdItKkmfQCLcBGAsYHQ/s200/27.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN Internacional (TV)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53562
-#EXTINF:0 tvg-name="COL- RCN Internacional (M)" tvg-logo="https://1.bp.blogspot.com/-7oL6rsMKBkM/XjbrWuu9FTI/AAAAAAAAA_E/epPt7G8w014-WYYWc_ytp_LyFdItKkmfQCLcBGAsYHQ/s200/27.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL- RCN Internacional (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22138
-#EXTINF:0 tvg-name="COL-RCN Novelas (M)" tvg-logo="https://1.bp.blogspot.com/-nlUknDNIXlU/XbDQwgY043I/AAAAAAAAAog/FKt_hvgE8sIwouXT_hpmxcCIoIZAS5jJACLcBGAsYHQ/s200/15.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN Novelas (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22133
-#EXTINF:0 tvg-name="COL-RCN Novelas (tr)(SD)" tvg-logo="https://1.bp.blogspot.com/-nlUknDNIXlU/XbDQwgY043I/AAAAAAAAAog/FKt_hvgE8sIwouXT_hpmxcCIoIZAS5jJACLcBGAsYHQ/s200/15.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN Novelas (tr)(SD)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59854
-#EXTINF:0 tvg-name="COL-RCN Nuestra Tele (M)" tvg-logo="https://1.bp.blogspot.com/-D_fKGhbIo0A/XjbsMVuamQI/AAAAAAAAA_Q/ZOGFVYBo_DkSXZuXr4RPRnfw3HVVcz7hQCLcBGAsYHQ/s200/28.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-RCN Nuestra Tele (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22134
-#EXTINF:0 tvg-name="COL-Cable Noticias (tr)(1080)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Cable Noticias (tr)(1080)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/59845
-#EXTINF:0 tvg-name="COL-Cable Noticias (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Cable Noticias (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53550
-#EXTINF:0 tvg-name="COL-Canal TRO (M)" tvg-logo="https://1.bp.blogspot.com/-wcjf9GtXs0s/XbDQ0lIiIOI/AAAAAAAAApU/BGJhluQypTkcChv-KNpKBs9ggkCsMCqqQCLcBGAsYHQ/s200/6.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Canal TRO (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/22140
-#EXTINF:0 tvg-name="COL-Cantinazo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-V9QeuhBwnxk/X3JDDGfArFI/AAAAAAAABks/e03wPSHkoTMsgRaqBYhBqkXvAjLaQIsngCLcBGAsYHQ/w200-h200/Cantinazo.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Cantinazo (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53552
-#EXTINF:0 tvg-name="COL-City Tv (TV)" tvg-logo="https://1.bp.blogspot.com/-Ku1Pv3IrW7o/X3IubH8boTI/AAAAAAAABkE/BvFiBQ437MIEhnL5M4Z7l61HtGX9e7QdwCLcBGAsYHQ/w200-h200/City%2Btv.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-City Tv (TV)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53553
-#EXTINF:0 tvg-name="COL-TV Agro (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-QFD7HnsLCKs/X3Irz_DnKfI/AAAAAAAABjY/bqXo7qn-MmkSIx4pMnWUZr_pJ5bUV7aPgCLcBGAsYHQ/w200-h200/Tv%2Bagro.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-TV Agro (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53557
-#EXTINF:0 tvg-name="COL-El Tiempo (TV)" tvg-logo="https://1.bp.blogspot.com/-ZfPk7CZDuF0/X3IuMx8HCqI/AAAAAAAABkA/nNgMEW-pVeIAB9HnW2tXTxWAyG-PTq_mgCLcBGAsYHQ/w200-h200/El%2Btiempo.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-El Tiempo (TV)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53554
-#EXTINF:0 tvg-name="COL-La Kalle (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-UZpNbJJ0IaA/X3Is_i5ttxI/AAAAAAAABj0/MYZIYJz_ZecgPCOdfwk3DzmI-qcXjmAYgCLcBGAsYHQ/w200-h200/La%2Bkalle.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-La Kalle (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53555
-#EXTINF:0 tvg-name="COL-NTN24 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-dgEzsx4CnZ0/X3JEMbsOJvI/AAAAAAAABk4/PPbEgQ4Dip8Lcw2VCq64vg8xgw0mPYXhACLcBGAsYHQ/w200-h200/Ntnt24.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-NTN24 (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53547
-#EXTINF:0 tvg-name="COL-Pasiones (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-m1oCMFjG3ug/Xz87KGiI1EI/AAAAAAAABJ4/ArWG1xLYopM3dqWio3izvW6V-8QWOAOlwCLcBGAsYHQ/w200-h200/5%2BPasiones.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Pasiones (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53548
-#EXTINF:0 tvg-name="COL-TeleAntioquia (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-cH1yIo66ecM/XbDQxju7vCI/AAAAAAAAAos/cQQh4JREll4vR3RLuoWvbMNjcu4Xi26zgCLcBGAsYHQ/s200/18.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-TeleAntioquia (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53538
-#EXTINF:0 tvg-name="COL-TeleCafe (M)" tvg-logo="https://1.bp.blogspot.com/-uymnve3YKYY/XbDQx_IKbGI/AAAAAAAAAow/jW5B9EBjV3c8Rt0i87QJcl-dSK5uOhU-QCLcBGAsYHQ/s200/19.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-TeleCafe (M)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/5359
-#EXTINF:0 tvg-name="COL-Telecaribe (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-VG6AXntdptA/XbDQyZu-GaI/AAAAAAAAAo4/U3qWsNt4YRg8jUrk_oAygqnPBVCQNeUPwCLcBGAsYHQ/s200/20.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Telecaribe (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53541
-#EXTINF:0 tvg-name="COL-Teleisla (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-PZ7oALoVjT4/X3InRfIxicI/AAAAAAAABi0/k7cvGy5wMpAflXiC63tz9k0KMmu0d7-vwCLcBGAsYHQ/w200-h200/Teleislas.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Teleisla (TV)(SD)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53560
-#EXTINF:0 tvg-name="COL-Telemedellin (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-3W2BTrQegdw/XbDQyjKTBJI/AAAAAAAAAo8/62RahsE9FbwAzQ4XRGv3-5V6Ov163gKHACLcBGAsYHQ/s200/21.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Telemedellin (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53540
-#EXTINF:0 tvg-name="COL-Telepacifico (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-lUQL2xMv6jE/X3Iq83om2rI/AAAAAAAABjM/XkxlTdaFpLkuGNTN635Vw9bZrH_4yLwNgCLcBGAsYHQ/w200-h200/Telepacifico.png" tvg-ID="" group-title="LATINOS-COLOMBIA",COL-Telepacifico (TV)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/53558
-#EXTINF:0 tvg-name="DOC-Mundo + (tr)(720)" tvg-logo="http://127.0.0.1/" tvg-ID="" group-title="LATINOS-COLOMBIA",DOC-Mundo + (tr)(720)
-http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/65389
 #EXTINF:0 tvg-name="ESP-Accion (M)(720)" tvg-logo="https://1.bp.blogspot.com/-wUoVSCGiLEk/XxZrjzp2NWI/AAAAAAAAAgI/NgNsd_d1DwoNsV5GJJE8L2mT2YMiFFJugCLcBGAsYHQ/w200-h200/18%2BMovistar%2BAccion.png" tvg-ID="" group-title="EUROPA-ESPAÑA",ESP-Accion (M)(720)
 http://tv.globaldomain.xyz:8000/JayHarrisLaT/bJ7ZYibcXh/4818
 #EXTINF:0 tvg-name="ESP-AMC (M)(720)" tvg-logo="https://1.bp.blogspot.com/-nqbZNAkwmuc/XxZrkj6a2HI/AAAAAAAAAgY/mbXMt5LQRxMhTeAZGxfHu8QWiJU0TLLwgCLcBGAsYHQ/w200-h200/20%2BAMC.png" tvg-ID="" group-title="EUROPA-ESPAÑA",ESP-AMC (M)(720)
