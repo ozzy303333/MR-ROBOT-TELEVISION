@@ -891,3 +891,175 @@ http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrga
 http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/78
 #EXTINF:-1 ,SERIES: WARNER SD*
 http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/79
+#EXTINF:-1,CINEMA:  DINAMITA SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/1
+#EXTINF:-1,CINEMA:  TCM SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/2
+#EXTINF:-1,CINEMA: AMC SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/3
+#EXTINF:-1,CINEMA: AZTECA CINEMA
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/4
+#EXTINF:-1,CINEMA: CINE CANAL SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/5
+#EXTINF:-1,CINEMA: CINE LATINO SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/6
+#EXTINF:-1,CINEMA: CINEMAX SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/7
+#EXTINF:-1,CINEMA: CLARO CINEMA SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/8
+#EXTINF:-1,CINEMA: DE PELICULA PLUS
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/9
+#EXTINF:-1,CINEMA: DE PELICULA TP MX
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/10
+#EXTINF:-1,CINEMA: FOX ACTION SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/11
+#EXTINF:-1,CINEMA: FOX CLASICO SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/14
+#EXTINF:-1,CINEMA: FOX COMEDY SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/15
+#EXTINF:-1,CINEMA: FOX FAMYLY SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/16
+#EXTINF:-1,CINEMA: FOX MOVIES SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/17
+#EXTINF:-1,CINEMA: FOX SERIES SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/18
+#EXTINF:-1,CINEMA: GOLDEN PREMIER 1
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/19
+#EXTINF:-1,CINEMA: GOLDEN SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/20
+#EXTINF:-1,CINEMA: HBO 1 SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/21
+#EXTINF:-1,CINEMA: HBO 2 SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/22
+#EXTINF:-1,CINEMA: HBO Family SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/23
+#EXTINF:-1,CINEMA: HBO MUNDI
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/24
+#EXTINF:-1,CINEMA: HBO Plus SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/25
+#EXTINF:-1,CINEMA: HBO XTREAME SD *
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/26
+#EXTINF:-1,CINEMA: MULTICINEMA SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/27
+#EXTINF:-1,CINEMA: MULTIPREMIER SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/28
+#EXTINF:-1,CINEMA: PARAMOUNT SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/29
+#EXTINF:-1,CINEMA: SPACE SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/30
+#EXTINF:-1,CINEMA: STUDIO UNIVERSAL SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/31
+#EXTINF:-1,CINEMA: SYFY*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/32
+#EXTINF:-1,CINEMA: TNT SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/33
+#EXTINF:-1,CULTURA: ANIMAL PLANET SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/34
+#EXTINF:-1,CULTURA: DISCOVERY CHANNEL SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/35
+#EXTINF:-1,CULTURA: DISCOVERY CIVILIZATION SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/36
+#EXTINF:-1,CULTURA: DISCOVERY H&H SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/37
+#EXTINF:-1,CULTURA: DISCOVERY SCIENCE SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/38
+#EXTINF:-1,CULTURA: DISCOVERY THEATHER HD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/39
+#EXTINF:-1,CULTURA: DISCOVERY TURBO SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/40
+#EXTINF:-1,CULTURA: H2 SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/41
+#EXTINF:-1,CULTURA: HISTORY SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/42
+#EXTINF:-1,CULTURA: ID SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/43
+#EXTINF:-1,CULTURA: NAT GEO SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/44
+#EXTINF:-1,CULTURA: NATGEO WILD  SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/45
+#EXTINF:-1,CULTURA: TLC SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/46
+#EXTINF:-1,ENTRE GALAVISION
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/48
+#EXTINF:-1,ENTRE: ANTENA3 SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/49
+#EXTINF:-1,ENTRE: AZ MUNDO SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/50
+#EXTINF:-1,ENTRE: COMEDY CENTRAL HD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/51
+#EXTINF:-1,ENTRE: DHE SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/52
+#EXTINF:-1,ENTRE: DISTRITO COMEDIA TP MX
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/53
+#EXTINF:-1,ENTRE: E! SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/54
+#EXTINF:-1,ENTRE: EL GOURMET SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/55
+#EXTINF:-1,ENTRE: ESTRELLATV
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/65
+#EXTINF:-1,ENTRE: FASHION ONE SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/56
+#EXTINF:-1,ENTRE: FILM & ARTS SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/57
+#EXTINF:-1,ENTRE: FOOD NETWORK TP MX
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/58
+#EXTINF:-1,ENTRE: HOLA !TV SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/59
+#EXTINF:-1,ENTRE: LIFE TIME SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/60
+#EXTINF:-1,ENTRE: MAS CHIC SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/61
+#EXTINF:-1,ENTRE: TL NOVELAS TP MX
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/62
+#EXTINF:-1,ENTRE: UNICABLE TP MX
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/63
+#EXTINF:-1,ENTRETENIMIENTO: FOX LIFE TP MX
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/64
+#EXTINF:-1,FOX LIFE
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/66
+#EXTINF:-1,NIÃ‘OS: Baby TV*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/80
+#EXTINF:-1,NIÃ‘OS: BIT ME TP MX
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/89
+#EXTINF:-1,NIÃ‘OS: Boomerang*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/81
+#EXTINF:-1,NIÃ‘OS: Discovery Kids SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/82
+#EXTINF:-1,NIÃ‘OS: Disney JR SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/84
+#EXTINF:-1,NIÃ‘OS: Disney SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/83
+#EXTINF:-1,NIÃ‘OS: Disney XD SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/85
+#EXTINF:-1,NIÃ‘OS: Nat Geo Kids SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/86
+#EXTINF:-1,NIÃ‘OS: Nick Jr SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/87
+#EXTINF:-1,NIÃ‘OS: Nickelodeon SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/88
+#EXTINF:-1,NIÃ‘OS: TOONCAST TP MX
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/90
+#EXTINF:-1,SERIE: A&E SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/67
+#EXTINF:-1,SERIE: A3SERIES
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/68
+#EXTINF:-1,SERIE: AXN SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/69
+#EXTINF:-1,SERIE: EURO Channel SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/70
+#EXTINF:-1,SERIE: FOX SD *
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/71
+#EXTINF:-1,SERIE: FX Movies SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/72
+#EXTINF:-1,SERIE: FX SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/73
+#EXTINF:-1,SERIE: FXM TP MX
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/74
+#EXTINF:-1,SERIE: SONY SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/76
+#EXTINF:-1,SERIE: TNT SERIES*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/77
+#EXTINF:-1,SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/78
+#EXTINF:-1,SERIES: WARNER SD*
+http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/79
