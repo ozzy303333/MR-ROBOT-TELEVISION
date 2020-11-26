@@ -25,10 +25,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/874.m3u8
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1029.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX | DISCOVERY CHANNEL  SD |  LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1028.m3u8
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",Deportes | ESPN 3  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1017.m3u8
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX |  ESPN EXTRA SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1014.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX | Fox Sports 3   |  LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1011.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX | VH1 | LEO
@@ -37,8 +33,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1004.m3u8
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1089.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",USA | Telemundo Miami SD |  LATAM / MARCOZ
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1088.m3u8
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX  |  H2  HISTORY  SD |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1080.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",USA | BEIN Sports Latino SD |  LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1194.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX | GOLDEN HD | LEO | Direct Source | No Cambiar
@@ -71,8 +65,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1369.m3u8
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1367.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX |  ESPN 1 HD | LEO | Direct Source | No Cambiar
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1366.m3u8
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",USA | FOX DEPORTES USA  SD  |  LATAM
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1361.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",ARG  | ESPN 1  ARG  SD |   LATAM
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1359.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",ARG | ESPN 2  ARGENTINA SD |  LATAM
@@ -115,8 +107,6 @@ http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1508.m3u8
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1558.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX | ADN 40 | LEO
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1557.m3u8
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",USA | Olympic Channel HD | LEO
-http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1635.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX | NUEVE SD |  Victor
 http://tv.tux.dynu.com:25461/live/tswpFsEGHE/nevOOBkGmt/1605.m3u8
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="http://127.0.0.1/",MEX |  Univision West HD | LEO
@@ -159,18 +149,8 @@ http://thex.tv:57999/juanlopez/juanlopez/374
 http://thex.tv:57999/juanlopez/juanlopez/377
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="https://i.pinimg.com/originals/94/aa/50/94aa508101091d9afbc7519458baca6a.png",CINEMAX SD_
 http://thex.tv:57999/juanlopez/juanlopez/378
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/CINEMAX_2_logo.png",CINEMAX 2 FHD_
-http://thex.tv:57999/juanlopez/juanlopez/5052
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png",DEPELICULA SD_
-http://thex.tv:57999/juanlopez/juanlopez/379
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FDe_Pel%25C3%25ADcula_Plus&psig=AOvVaw2a63o9lJ3hh4gaL-h35Os5&ust=1585169209709000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDoo8_9s-gCFQAAAAAdAAAAABAD",DEPELICULA PLUS FHD_
-http://thex.tv:57999/juanlopez/juanlopez/5053
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Canal_DHE.jpg",DHE FHD_
 http://thex.tv:57999/juanlopez/juanlopez/380
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Canal_DHE.jpg",DHE SD_
-http://thex.tv:57999/juanlopez/juanlopez/381
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/FOXPremium2018.png",FOX FHD_
-http://thex.tv:57999/juanlopez/juanlopez/384
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="https://cdn.mitvstatic.com/channels/a6911fcf-0430-4e30-9302-d6e022438559_m.jpg",FOX HD_
 http://thex.tv:57999/juanlopez/juanlopez/6222
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="https://fotos.subefotos.com/730041fbda75cd63be6b10ef3453eeado.png",FOX ACTION FHD_
@@ -253,18 +233,8 @@ http://thex.tv:57999/juanlopez/juanlopez/446
 http://thex.tv:57999/juanlopez/juanlopez/448
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="https://i.pinimg.com/originals/d6/6b/b5/d66bb576495837a6336a136895c0ee31.png",SPACE HD_
 http://thex.tv:57999/juanlopez/juanlopez/449
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg",STARZ FHD_
-http://thex.tv:57999/juanlopez/juanlopez/459
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg",STARZ ACTION FHD_
-http://thex.tv:57999/juanlopez/juanlopez/451
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg",STARZ BLACK FHD_
-http://thex.tv:57999/juanlopez/juanlopez/452
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg",STARZ COMEDIA FHD_
 http://thex.tv:57999/juanlopez/juanlopez/454
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg",STARZ EDGE FHD_
-http://thex.tv:57999/juanlopez/juanlopez/456
-#EXTINF:-1 group-title="TELEVISION" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg",STARZ FAMILY HD_
-http://thex.tv:57999/juanlopez/juanlopez/458
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="https://www.bolsamania.com/seriesadictos/wp-content/uploads/2008/01/st_pre_pos_2c.jpg",STARZ WESTERN FHD_
 http://thex.tv:57999/juanlopez/juanlopez/462
 #EXTINF:-1 group-title="TELEVISION" tvg-logo="https://cdn.mitvstatic.com/channels/fd8cde27-1fa8-46f4-a2ff-96436bbe6912_m.jpg",STUDIO UNIVERSAL FHD_
@@ -417,8 +387,6 @@ http://190.122.96.187:8888/http/010
 http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/chunklist_w158123675_b596000_sleng.m3u8
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png",Unicanal (Paraguay)
 http://45.55.127.106/live/unicanal_src.m3u8
-#EXTINF:-1 group-title="Latinos" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/03/hosanna-tv.png",Hosanna Vision (Panama)
-https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Latinos" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/ELIM-TV.png",ElimTV (San Salvador)
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
 #EXTINF:-1 group-title="Latinos" tvg-logo="http://www.tele1.sv/wp-content/uploads/2019/06/ipad-app-2-1024x732-689x492.png",Tele1 (El Salvador)
@@ -543,8 +511,6 @@ http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_a
 https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="http://127.0.0.1/",MediaTV (España)
 http://media.profesionalhosting.com:1935/8441/8441/chunklist_w1610236560.m3u8
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/udlaspalmasoficial/picture?width=320&height=320",UD Las Palmas TV
-https://ns3153203.ip-51-91-51.eu/hls/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/RedBull/picture?width=320&height=320",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=320&height=320",Canal Sur Andalucía
@@ -651,8 +617,6 @@ http://momentog-crtvg.flumotion.com/playlist.m3u8
 http://events1-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/CRTVG/picture?width=320&height=320",TVG Evento 5
 http://amodino-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/tvferrol/picture?width=320&height=320",TV Ferrol
-https://directo.tvferrol.es/tv.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/TEFTV/picture?width=320&height=320",TEF
 https://5940924978228.streamlock.net/8273/smil:8273.smil/playlist.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/canal4televisio/picture?width=320&height=320",Canal 4
@@ -685,8 +649,6 @@ https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
 #EXTINF:-1 group-title="https://graph.facebook.com/urolatelebista/picture?width=320&height=320" tvg-logo="https://graph.facebook.com/urolatelebista/picture?width=320&height=320",Urola Telebista
 https://5940924978228.streamlock.net/j_Directo1/smil:j_Directo1.smil/master.m3u8
-#EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/oizmenditelebista/picture?width=320&height=320",Oizmendi Telebista
-https://5940924978228.streamlock.net/8161/8161/master.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/apuntmedia/picture?width=320&height=320",À Punt
 https://bcovlive-a.akamaihd.net/1e7e91116b104391a4f22e13a694d94f/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=320&height=320",Intercomarcal TV
@@ -719,347 +681,3 @@ http://190.11.224.14:8134/liveevent.m3u8
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1 group-title="LATINOS" tvg-logo="https://i.imgur.com/qRHwhND.png",Cholusat Sur 36
 http://audiotvserver.net:1935/livemedia/cholusat/playlist.m3u8
-#EXTINF:-1 ,CINEMA:  DINAMITA SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/1
-#EXTINF:-1 ,CINEMA:  TCM SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/2
-#EXTINF:-1 ,CINEMA: AMC SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/3
-#EXTINF:-1 ,CINEMA: AZTECA CINEMA
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/4
-#EXTINF:-1 ,CINEMA: CINE CANAL SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/5
-#EXTINF:-1 ,CINEMA: CINE LATINO SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/6
-#EXTINF:-1 ,CINEMA: CINEMAX SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/7
-#EXTINF:-1 ,CINEMA: CLARO CINEMA SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/8
-#EXTINF:-1 ,CINEMA: DE PELICULA PLUS
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/9
-#EXTINF:-1 ,CINEMA: DE PELICULA TP MX
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/10
-#EXTINF:-1 ,CINEMA: FOX ACTION SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/11
-#EXTINF:-1 ,CINEMA: FOX CLASICO SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/14
-#EXTINF:-1 ,CINEMA: FOX COMEDY SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/15
-#EXTINF:-1 ,CINEMA: FOX FAMYLY SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/16
-#EXTINF:-1 ,CINEMA: FOX MOVIES SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/17
-#EXTINF:-1 ,CINEMA: FOX SERIES SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/18
-#EXTINF:-1 ,CINEMA: GOLDEN PREMIER 1
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/19
-#EXTINF:-1 ,CINEMA: GOLDEN SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/20
-#EXTINF:-1 ,CINEMA: HBO 1 SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/21
-#EXTINF:-1 ,CINEMA: HBO 2 SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/22
-#EXTINF:-1 ,CINEMA: HBO Family SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/23
-#EXTINF:-1 ,CINEMA: HBO MUNDI
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/24
-#EXTINF:-1 ,CINEMA: HBO Plus SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/25
-#EXTINF:-1 ,CINEMA: HBO XTREAME SD *
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/26
-#EXTINF:-1 ,CINEMA: MULTICINEMA SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/27
-#EXTINF:-1 ,CINEMA: MULTIPREMIER SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/28
-#EXTINF:-1 ,CINEMA: PARAMOUNT SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/29
-#EXTINF:-1 ,CINEMA: SPACE SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/30
-#EXTINF:-1 ,CINEMA: STUDIO UNIVERSAL SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/31
-#EXTINF:-1 ,CINEMA: SYFY*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/32
-#EXTINF:-1 ,CINEMA: TNT SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/33
-#EXTINF:-1 ,CULTURA: ANIMAL PLANET SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/34
-#EXTINF:-1 ,CULTURA: DISCOVERY CHANNEL SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/35
-#EXTINF:-1 ,CULTURA: DISCOVERY CIVILIZATION SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/36
-#EXTINF:-1 ,CULTURA: DISCOVERY H&H SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/37
-#EXTINF:-1 ,CULTURA: DISCOVERY SCIENCE SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/38
-#EXTINF:-1 ,CULTURA: DISCOVERY THEATHER HD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/39
-#EXTINF:-1 ,CULTURA: DISCOVERY TURBO SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/40
-#EXTINF:-1 ,CULTURA: H2 SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/41
-#EXTINF:-1 ,CULTURA: HISTORY SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/42
-#EXTINF:-1 ,CULTURA: ID SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/43
-#EXTINF:-1 ,CULTURA: NAT GEO SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/44
-#EXTINF:-1 ,CULTURA: NATGEO WILD  SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/45
-#EXTINF:-1 ,CULTURA: TLC SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/46
-#EXTINF:-1 ,ENTRE GALAVISION
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/48
-#EXTINF:-1 ,ENTRE: ANTENA3 SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/49
-#EXTINF:-1 ,ENTRE: AZ MUNDO SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/50
-#EXTINF:-1 ,ENTRE: COMEDY CENTRAL HD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/51
-#EXTINF:-1 ,ENTRE: DHE SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/52
-#EXTINF:-1 ,ENTRE: DISTRITO COMEDIA TP MX
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/53
-#EXTINF:-1 ,ENTRE: E! SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/54
-#EXTINF:-1 ,ENTRE: EL GOURMET SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/55
-#EXTINF:-1 ,ENTRE: ESTRELLATV
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/65
-#EXTINF:-1 ,ENTRE: FASHION ONE SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/56
-#EXTINF:-1 ,ENTRE: FILM & ARTS SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/57
-#EXTINF:-1 ,ENTRE: FOOD NETWORK TP MX
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/58
-#EXTINF:-1 ,ENTRE: HOLA !TV SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/59
-#EXTINF:-1 ,ENTRE: LIFE TIME SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/60
-#EXTINF:-1 ,ENTRE: MAS CHIC SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/61
-#EXTINF:-1 ,ENTRE: TL NOVELAS TP MX
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/62
-#EXTINF:-1 ,ENTRE: UNICABLE TP MX
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/63
-#EXTINF:-1 ,ENTRETENIMIENTO: FOX LIFE TP MX
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/64
-#EXTINF:-1 ,FOX LIFE
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/66
-#EXTINF:-1 ,NIÃ‘OS: Baby TV*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/80
-#EXTINF:-1 ,NIÃ‘OS: BIT ME TP MX
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/89
-#EXTINF:-1 ,NIÃ‘OS: Boomerang*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/81
-#EXTINF:-1 ,NIÃ‘OS: Discovery Kids SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/82
-#EXTINF:-1 ,NIÃ‘OS: Disney JR SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/84
-#EXTINF:-1 ,NIÃ‘OS: Disney SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/83
-#EXTINF:-1 ,NIÃ‘OS: Disney XD SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/85
-#EXTINF:-1 ,NIÃ‘OS: Nat Geo Kids SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/86
-#EXTINF:-1 ,NIÃ‘OS: Nick Jr SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/87
-#EXTINF:-1 ,NIÃ‘OS: Nickelodeon SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/88
-#EXTINF:-1 ,NIÃ‘OS: TOONCAST TP MX
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/90
-#EXTINF:-1 ,SERIE: A&E SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/67
-#EXTINF:-1 ,SERIE: A3SERIES
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/68
-#EXTINF:-1 ,SERIE: AXN SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/69
-#EXTINF:-1 ,SERIE: EURO Channel SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/70
-#EXTINF:-1 ,SERIE: FOX SD *
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/71
-#EXTINF:-1 ,SERIE: FX Movies SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/72
-#EXTINF:-1 ,SERIE: FX SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/73
-#EXTINF:-1 ,SERIE: FXM TP MX
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/74
-#EXTINF:-1 ,SERIE: SONY SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/76
-#EXTINF:-1 ,SERIE: TNT SERIES*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/77
-#EXTINF:-1 ,SERIE: UNIVERSAL TV SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/78
-#EXTINF:-1 ,SERIES: WARNER SD*
-http://zufreelist.net:8080/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/eqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasdeqrgaergaergfvafvasdvasd/79
-#EXTINF:-1,CINEMA:  DINAMITA SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/1
-#EXTINF:-1,CINEMA:  TCM SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/2
-#EXTINF:-1,CINEMA: AMC SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/3
-#EXTINF:-1,CINEMA: AZTECA CINEMA
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/4
-#EXTINF:-1,CINEMA: CINE CANAL SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/5
-#EXTINF:-1,CINEMA: CINE LATINO SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/6
-#EXTINF:-1,CINEMA: CINEMAX SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/7
-#EXTINF:-1,CINEMA: CLARO CINEMA SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/8
-#EXTINF:-1,CINEMA: DE PELICULA PLUS
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/9
-#EXTINF:-1,CINEMA: DE PELICULA TP MX
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/10
-#EXTINF:-1,CINEMA: FOX ACTION SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/11
-#EXTINF:-1,CINEMA: FOX CLASICO SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/14
-#EXTINF:-1,CINEMA: FOX COMEDY SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/15
-#EXTINF:-1,CINEMA: FOX FAMYLY SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/16
-#EXTINF:-1,CINEMA: FOX MOVIES SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/17
-#EXTINF:-1,CINEMA: FOX SERIES SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/18
-#EXTINF:-1,CINEMA: GOLDEN PREMIER 1
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/19
-#EXTINF:-1,CINEMA: GOLDEN SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/20
-#EXTINF:-1,CINEMA: HBO 1 SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/21
-#EXTINF:-1,CINEMA: HBO 2 SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/22
-#EXTINF:-1,CINEMA: HBO Family SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/23
-#EXTINF:-1,CINEMA: HBO MUNDI
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/24
-#EXTINF:-1,CINEMA: HBO Plus SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/25
-#EXTINF:-1,CINEMA: HBO XTREAME SD *
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/26
-#EXTINF:-1,CINEMA: MULTICINEMA SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/27
-#EXTINF:-1,CINEMA: MULTIPREMIER SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/28
-#EXTINF:-1,CINEMA: PARAMOUNT SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/29
-#EXTINF:-1,CINEMA: SPACE SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/30
-#EXTINF:-1,CINEMA: STUDIO UNIVERSAL SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/31
-#EXTINF:-1,CINEMA: SYFY*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/32
-#EXTINF:-1,CINEMA: TNT SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/33
-#EXTINF:-1,CULTURA: ANIMAL PLANET SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/34
-#EXTINF:-1,CULTURA: DISCOVERY CHANNEL SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/35
-#EXTINF:-1,CULTURA: DISCOVERY CIVILIZATION SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/36
-#EXTINF:-1,CULTURA: DISCOVERY H&H SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/37
-#EXTINF:-1,CULTURA: DISCOVERY SCIENCE SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/38
-#EXTINF:-1,CULTURA: DISCOVERY THEATHER HD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/39
-#EXTINF:-1,CULTURA: DISCOVERY TURBO SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/40
-#EXTINF:-1,CULTURA: H2 SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/41
-#EXTINF:-1,CULTURA: HISTORY SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/42
-#EXTINF:-1,CULTURA: ID SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/43
-#EXTINF:-1,CULTURA: NAT GEO SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/44
-#EXTINF:-1,CULTURA: NATGEO WILD  SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/45
-#EXTINF:-1,CULTURA: TLC SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/46
-#EXTINF:-1,ENTRE GALAVISION
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/48
-#EXTINF:-1,ENTRE: ANTENA3 SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/49
-#EXTINF:-1,ENTRE: AZ MUNDO SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/50
-#EXTINF:-1,ENTRE: COMEDY CENTRAL HD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/51
-#EXTINF:-1,ENTRE: DHE SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/52
-#EXTINF:-1,ENTRE: DISTRITO COMEDIA TP MX
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/53
-#EXTINF:-1,ENTRE: E! SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/54
-#EXTINF:-1,ENTRE: EL GOURMET SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/55
-#EXTINF:-1,ENTRE: ESTRELLATV
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/65
-#EXTINF:-1,ENTRE: FASHION ONE SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/56
-#EXTINF:-1,ENTRE: FILM & ARTS SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/57
-#EXTINF:-1,ENTRE: FOOD NETWORK TP MX
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/58
-#EXTINF:-1,ENTRE: HOLA !TV SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/59
-#EXTINF:-1,ENTRE: LIFE TIME SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/60
-#EXTINF:-1,ENTRE: MAS CHIC SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/61
-#EXTINF:-1,ENTRE: TL NOVELAS TP MX
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/62
-#EXTINF:-1,ENTRE: UNICABLE TP MX
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/63
-#EXTINF:-1,ENTRETENIMIENTO: FOX LIFE TP MX
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/64
-#EXTINF:-1,FOX LIFE
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/66
-#EXTINF:-1,NIÃ‘OS: Baby TV*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/80
-#EXTINF:-1,NIÃ‘OS: BIT ME TP MX
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/89
-#EXTINF:-1,NIÃ‘OS: Boomerang*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/81
-#EXTINF:-1,NIÃ‘OS: Discovery Kids SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/82
-#EXTINF:-1,NIÃ‘OS: Disney JR SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/84
-#EXTINF:-1,NIÃ‘OS: Disney SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/83
-#EXTINF:-1,NIÃ‘OS: Disney XD SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/85
-#EXTINF:-1,NIÃ‘OS: Nat Geo Kids SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/86
-#EXTINF:-1,NIÃ‘OS: Nick Jr SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/87
-#EXTINF:-1,NIÃ‘OS: Nickelodeon SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/88
-#EXTINF:-1,NIÃ‘OS: TOONCAST TP MX
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/90
-#EXTINF:-1,SERIE: A&E SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/67
-#EXTINF:-1,SERIE: A3SERIES
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/68
-#EXTINF:-1,SERIE: AXN SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/69
-#EXTINF:-1,SERIE: EURO Channel SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/70
-#EXTINF:-1,SERIE: FOX SD *
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/71
-#EXTINF:-1,SERIE: FX Movies SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/72
-#EXTINF:-1,SERIE: FX SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/73
-#EXTINF:-1,SERIE: FXM TP MX
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/74
-#EXTINF:-1,SERIE: SONY SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/76
-#EXTINF:-1,SERIE: TNT SERIES*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/77
-#EXTINF:-1,SERIE: UNIVERSAL TV SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/78
-#EXTINF:-1,SERIES: WARNER SD*
-http://zufreelist.net:8080/XsIBL7hKHz/hWK5nz673X/79
