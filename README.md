@@ -147,6 +147,30 @@ http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdv
 http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/88
 #EXTINF:-1,NIÃ‘OS: TOONCAST TP MX
 http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/90
+#EXTINF:-1,SERIE: A&E SD*
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/67
+#EXTINF:-1,SERIE: A3SERIES
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/68
+#EXTINF:-1,SERIE: AXN SD*
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/69
+#EXTINF:-1,SERIE: EURO Channel SD*
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/70
+#EXTINF:-1,SERIE: FOX SD *
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/71
+#EXTINF:-1,SERIE: FX Movies SD*
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/72
+#EXTINF:-1,SERIE: FX SD*
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/73
+#EXTINF:-1,SERIE: FXM TP MX
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/74
+#EXTINF:-1,SERIE: SONY SD*
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/76
+#EXTINF:-1,SERIE: TNT SERIES*
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/77
+#EXTINF:-1,SERIE: UNIVERSAL TV SD*
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/78
+#EXTINF:-1,SERIES: WARNER SD*
+http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/79
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/eGvLDVR.png",Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://i.imgur.com/A9kTYN8.png",Multimedios Monterrey | HD
