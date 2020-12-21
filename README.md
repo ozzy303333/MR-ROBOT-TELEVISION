@@ -1,176 +1,107 @@
-#EXTM3U
-#EXTINF:-1,CINEMA:  DINAMITA SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/1
-#EXTINF:-1,CINEMA:  TCM SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/2
-#EXTINF:-1,CINEMA: AMC SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/3
-#EXTINF:-1,CINEMA: AZTECA CINEMA
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/4
-#EXTINF:-1,CINEMA: CINE CANAL SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/5
-#EXTINF:-1,CINEMA: CINE LATINO SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/6
-#EXTINF:-1,CINEMA: CINEMAX SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/7
-#EXTINF:-1,CINEMA: CLARO CINEMA SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/8
-#EXTINF:-1,CINEMA: DE PELICULA PLUS
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/9
-#EXTINF:-1,CINEMA: DE PELICULA TP MX
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/10
-#EXTINF:-1,CINEMA: FOX ACTION SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/11
-#EXTINF:-1,CINEMA: FOX CLASICO SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/14
-#EXTINF:-1,CINEMA: FOX COMEDY SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/15
-#EXTINF:-1,CINEMA: FOX FAMYLY SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/16
-#EXTINF:-1,CINEMA: FOX MOVIES SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/17
-#EXTINF:-1,CINEMA: FOX SERIES SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/18
-#EXTINF:-1,CINEMA: GOLDEN PREMIER 1
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/19
-#EXTINF:-1,CINEMA: GOLDEN SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/20
-#EXTINF:-1,CINEMA: HBO 1 SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/21
-#EXTINF:-1,CINEMA: HBO 2 SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/22
-#EXTINF:-1,CINEMA: HBO Family SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/23
-#EXTINF:-1,CINEMA: HBO MUNDI
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/24
-#EXTINF:-1,CINEMA: HBO Plus SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/25
-#EXTINF:-1,CINEMA: HBO XTREAME SD *
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/26
-#EXTINF:-1,CINEMA: MULTICINEMA SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/27
-#EXTINF:-1,CINEMA: MULTIPREMIER SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/28
-#EXTINF:-1,CINEMA: PARAMOUNT SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/29
-#EXTINF:-1,CINEMA: SPACE SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/30
-#EXTINF:-1,CINEMA: STUDIO UNIVERSAL SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/31
-#EXTINF:-1,CINEMA: SYFY*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/32
-#EXTINF:-1,CINEMA: TNT SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/33
-#EXTINF:-1,CULTURA: ANIMAL PLANET SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/34
-#EXTINF:-1,CULTURA: DISCOVERY CHANNEL SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/35
-#EXTINF:-1,CULTURA: DISCOVERY CIVILIZATION SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/36
-#EXTINF:-1,CULTURA: DISCOVERY H&H SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/37
-#EXTINF:-1,CULTURA: DISCOVERY SCIENCE SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/38
-#EXTINF:-1,CULTURA: DISCOVERY THEATHER HD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/39
-#EXTINF:-1,CULTURA: DISCOVERY TURBO SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/40
-#EXTINF:-1,CULTURA: H2 SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/41
-#EXTINF:-1,CULTURA: HISTORY SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/42
-#EXTINF:-1,CULTURA: ID SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/43
-#EXTINF:-1,CULTURA: NAT GEO SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/44
-#EXTINF:-1,CULTURA: NATGEO WILD  SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/45
-#EXTINF:-1,CULTURA: TLC SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/46
-#EXTINF:-1,ENTRE GALAVISION
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/48
-#EXTINF:-1,ENTRE: ANTENA3 SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/49
-#EXTINF:-1,ENTRE: AZ MUNDO SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/50
-#EXTINF:-1,ENTRE: COMEDY CENTRAL HD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/51
-#EXTINF:-1,ENTRE: DHE SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/52
-#EXTINF:-1,ENTRE: DISTRITO COMEDIA TP MX
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/53
-#EXTINF:-1,ENTRE: E! SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/54
-#EXTINF:-1,ENTRE: EL GOURMET SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/55
-#EXTINF:-1,ENTRE: ESTRELLATV
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/65
-#EXTINF:-1,ENTRE: FASHION ONE SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/56
-#EXTINF:-1,ENTRE: FILM & ARTS SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/57
-#EXTINF:-1,ENTRE: FOOD NETWORK TP MX
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/58
-#EXTINF:-1,ENTRE: HOLA !TV SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/59
-#EXTINF:-1,ENTRE: LIFE TIME SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/60
-#EXTINF:-1,ENTRE: MAS CHIC SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/61
-#EXTINF:-1,ENTRE: TL NOVELAS TP MX
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/62
-#EXTINF:-1,ENTRE: UNICABLE TP MX
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/63
-#EXTINF:-1,ENTRETENIMIENTO: FOX LIFE TP MX
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/64
-#EXTINF:-1,FOX LIFE
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/66
-#EXTINF:-1,NIÃ‘OS: Baby TV*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/80
-#EXTINF:-1,NIÃ‘OS: BIT ME TP MX
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/89
-#EXTINF:-1,NIÃ‘OS: Boomerang*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/81
-#EXTINF:-1,NIÃ‘OS: Discovery Kids SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/82
-#EXTINF:-1,NIÃ‘OS: Disney JR SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/84
-#EXTINF:-1,NIÃ‘OS: Disney SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/83
-#EXTINF:-1,NIÃ‘OS: Disney XD SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/85
-#EXTINF:-1,NIÃ‘OS: Nat Geo Kids SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/86
-#EXTINF:-1,NIÃ‘OS: Nick Jr SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/87
-#EXTINF:-1,NIÃ‘OS: Nickelodeon SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/88
-#EXTINF:-1,NIÃ‘OS: TOONCAST TP MX
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/90
-#EXTINF:-1,SERIE: A&E SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/67
-#EXTINF:-1,SERIE: A3SERIES
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/68
-#EXTINF:-1,SERIE: AXN SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/69
-#EXTINF:-1,SERIE: EURO Channel SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/70
-#EXTINF:-1,SERIE: FOX SD *
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/71
-#EXTINF:-1,SERIE: FX Movies SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/72
-#EXTINF:-1,SERIE: FX SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/73
-#EXTINF:-1,SERIE: FXM TP MX
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/74
-#EXTINF:-1,SERIE: SONY SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/76
-#EXTINF:-1,SERIE: TNT SERIES*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/77
-#EXTINF:-1,SERIE: UNIVERSAL TV SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/78
-#EXTINF:-1,SERIES: WARNER SD*
-http://zufreelist.net:8080/asdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasdasdvasd/asdvasdasdvasdasdvasdasdvasd/79
+
+#EXTM3U 
+url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
+#EXTINF:-1, tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Nuevo en Pluto TV", Bob Esponja
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f98537a5a4341000733aefe" tvg-name="MTV Embarazada a los 16" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png" group-title="Nuevo en Pluto TV", MTV Embarazada a los 16
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f98537a5a4341000733aefe/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f984b18dfe75800070e8645" tvg-name="Pluto TV Navidad" tvg-logo="https://images.pluto.tv/channels/5f984b18dfe75800070e8645/colorLogoPNG.png" group-title="Nuevo en Pluto TV", Pluto TV Navidad
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984b18dfe75800070e8645/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f984fdc470d460007a67094" tvg-name="MTV Hits Navidad" tvg-logo="https://images.pluto.tv/channels/5f984fdc470d460007a67094/colorLogoPNG.png" group-title="Nuevo en Pluto TV", MTV Hits Navidad
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984fdc470d460007a67094/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f984ba0c54853000797a5e6" tvg-name="Kids Navidad" tvg-logo="https://images.pluto.tv/channels/5f984ba0c54853000797a5e6/colorLogoPNG.png" group-title="Nuevo en Pluto TV", Kids Navidad
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984ba0c54853000797a5e6/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f984c1dc54853000797a5e8" tvg-name="Cine Latino" tvg-logo="https://images.pluto.tv/channels/5f984c1dc54853000797a5e8/colorLogoPNG.png" group-title="Nuevo en Pluto TV", Cine Latino
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="Pluto TV Cine" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="Películas", Pluto TV Cine
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac2591dd8880007bb7d6d" tvg-name="Pluto TV Cine Acción" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f6a38eaa5b68b0007a00e7a" tvg-name="Pluto TV Sci-Fi" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png" group-title="Películas", Pluto TV Sci-Fi
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac8a87cd38d000745d7cf" tvg-name="Pluto TV Thrillers" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png" group-title="Películas", Pluto TV Thrillers
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac9a2d3611d0007a844bb" tvg-name="Pluto TV Cine Romántico" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Romántico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac947dcd00d0007937c08" tvg-name="Pluto TV Cine Drama" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Drama
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac8099c49f600076579b2" tvg-name="Pluto TV Cine Comedia" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png" group-title="Películas", Pluto TV Cine Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1acc3e061597000768d4ea" tvg-name="Andrómeda" tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png" group-title="Series", Andrómeda
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acc3e061597000768d4ea/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1acb4eebe0f0000767b40f" tvg-name="Las reglas del juego" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png" group-title="Series", Las reglas del juego
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acb4eebe0f0000767b40f/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aca8310a30e00074fab92" tvg-name="Asesinatos de Midsomer" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="Series", Asesinatos de Midsomer
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1acd36779de70007a680d1" tvg-name="Curro Jiménez" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="Series", Curro Jiménez
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1acc91cc9e1b000711ff21" tvg-name="Mutante X" tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png" group-title="Series", Mutante X
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acc91cc9e1b000711ff21/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac8f49205650007bc15f1" tvg-name="Pluto TV Series" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" group-title="Series", Pluto TV Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8f49205650007bc15f1/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5fb40dd679cb120007306640" tvg-name="Chimenea" tvg-logo="https://images.pluto.tv/channels/5fb40dd679cb120007306640/colorLogoPNG.png" group-title="Navidad", Chimenea
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb40dd679cb120007306640/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f984d0e09acd50007089c4a" tvg-name="Luces de Navidad" tvg-logo="https://images.pluto.tv/channels/5f984d0e09acd50007089c4a/colorLogoPNG.png" group-title="Navidad", Luces de Navidad
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984d0e09acd50007089c4a/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aadf373bed3000794d1d7" tvg-name="MTV Originals" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png" group-title="MTV en Pluto TV", MTV Originals
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ab3c7778230000735cf41" tvg-name="MTV Catfish TV Show" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png" group-title="MTV en Pluto TV", MTV Catfish TV Show
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1abe3ffcd659000770d88d" tvg-name="La Chica Invisible" tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png" group-title="MTV en Pluto TV", La Chica Invisible
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abe3ffcd659000770d88d/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ab9c6d8f1300007f54e30" tvg-name="MTV Cribs" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png" group-title="MTV en Pluto TV", MTV Cribs
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aaefb96f755000733c11a" tvg-name="MADE" tvg-logo="https://images.pluto.tv/channels/5f1aaefb96f755000733c11a/colorLogoPNG.png" group-title="MTV en Pluto TV", MADE
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aaefb96f755000733c11a/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aae8c65727d0007d15a17" tvg-name="TROL" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png" group-title="MTV en Pluto TV", TROL
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aae8c65727d0007d15a17/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1abdceddf6a20007f8ccd2" tvg-name="Real Life" tvg-logo="https://images.pluto.tv/channels/5f1abdceddf6a20007f8ccd2/colorLogoPNG.png" group-title="MTV en Pluto TV", Real Life
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abdceddf6a20007f8ccd2/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f280149cec6be00072ab1fc" tvg-name="El Conquistador del Fin" tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png" group-title="Entretenimiento", El Conquistador del Fin
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f280149cec6be00072ab1fc/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1acdfda84c970007e750b5" tvg-name="Pluto TV Mundo Real" tvg-logo="https://images.pluto.tv/channels/5f1acdfda84c970007e750b5/colorLogoPNG.png" group-title="Entretenimiento", Pluto TV Mundo Real
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1acce7f17797000718f9be" tvg-name="Ana y los 7" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="Comedia", Ana y los 7
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1abce155a03d0007718834" tvg-name="Comedia made in Spain" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png" group-title="Comedia", Comedia made in Spain
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f28009b150b2500077766b8" tvg-name="Vaya semanita" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png" group-title="Comedia", Vaya semanita
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f28009b150b2500077766b8/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1abf5fafb5ee0007d4d0ca" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png" group-title="Comedia", FailArmy
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abf5fafb5ee0007d4d0ca/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1abf097eb06300079b30f7" tvg-name="The Pet Collective" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png" group-title="Comedia", The Pet Collective
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abf097eb06300079b30f7/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac1780e94100007f94b3f" tvg-name="People are Awesome" tvg-logo="https://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png" group-title="Comedia", People are Awesome
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1780e94100007f94b3f/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1acba0d1f6340007db8843" tvg-name="Los nuevos detectives" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png" group-title="Crimen y misterio", Los nuevos detectives
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acba0d1f6340007db8843/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1acbed25948a0007ffbe65" tvg-name="Los archivos del FBI" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png" group-title="Crimen y misterio", Los archivos del FBI
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acbed25948a0007ffbe65/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1acdaa8ba90f0007d5e760" tvg-name="Pluto TV Cocina" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png" group-title="Estilo de Vida", Pluto TV Cocina
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac8588734f8000823b7de" tvg-name="Pluto TV Action Sports" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png" group-title="Deportes", Pluto TV Action Sports
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1ac118dd7e6000077e31af" tvg-name="IGN" tvg-logo="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png" group-title="Deportes", IGN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aab1d29b39600073e243f" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png" group-title="Infantil", Pluto TV Kids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aabee6f4a2c00076a322c" tvg-name="Pluto TV Animakids" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="Infantil", Pluto TV Animakids
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aa7aab66c76000790ee7e" tvg-name="Big Time Rush" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png" group-title="Infantil", Big Time Rush
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aa82c150b2500077733d7" tvg-name="Pistas de Blue" tvg-logo="https://images.pluto.tv/channels/5f1aa82c150b2500077733d7/colorLogoPNG.png" group-title="Infantil", Pistas de Blue
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa82c150b2500077733d7/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aa89d42a0500007363ea3" tvg-name="Go Diego Go!" tvg-logo="https://images.pluto.tv/channels/5f1aa89d42a0500007363ea3/colorLogoPNG.png" group-title="Infantil", Go Diego Go!
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa89d42a0500007363ea3/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1aa9bcd8160700076d45d1" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png" group-title="Infantil", Pluto TV Junior
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+#EXTINF:-1, tvg-id="5f1abeb21044ee0007f19d33" tvg-name="Pluto TV Kids Halloween" tvg-logo="https://images.pluto.tv/channels/5f1abeb21044ee0007f19d33/colorLogoPNG.png" group-title="Infantil", Pluto TV Kids Halloween
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abeb21044ee0007f19d33/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=07
+
+
+
+
+
 #EXTINF:-1,Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,Multimedios Monterrey | HD
@@ -439,8 +370,6 @@ http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
 #EXTINF:-1,TV vconline.cl (Chile)
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8
-#EXTINF:-1,Mundo + (Chile)
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1,Pinguino TV
 http://streaming.elpinguino.com:1935/live/pinguinotv_360p/BratuMarian.m3u8
 #EXTINF:-1,Chile 5 FTA
@@ -469,8 +398,6 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve03_lv3_aosv4_gl0/irtve03_lv3_aosv4_gl0.isml/master.m3u8
 #EXTINF:-1,+24
 http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0.m3u8
-#EXTINF:-1,MediaTV (España)
-http://media.profesionalhosting.com:1935/8441/8441/chunklist_w1610236560.m3u8
 #EXTINF:-1,Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,Canal Sur Andalucía
@@ -1377,8 +1304,6 @@ http://live.redtraffic.xyz/fetish.m3u8
 http://live.redtraffic.xyz/pov.m3u8
 #EXTINF:-1,RedTraffic 13
 http://live.redtraffic.xyz/threesome.m3u8
-#EXTINF:-1,"La 2"
-http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
 #EXTINF:-1,"E-Parana"
 http://200.189.113.201/hls/tve.m3u8
 #EXTINF:-1,"Anexion TV"
@@ -1851,3 +1776,10 @@ https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virgin
 https://abclive1-lh.akamaihd.net/i/abc_live01@423395/master.m3u8
 #EXTINF:-1,CNBC TV18
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+
+
+
+
+
+
