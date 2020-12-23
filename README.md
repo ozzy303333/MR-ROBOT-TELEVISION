@@ -1,4 +1,3 @@
-
 #EXTM3U 
 url-tvg="https://i.mjh.nz/PlutoTV/es.xml.gz"
 #EXTINF:-1, tvg-id="5f1aca0b4e448e00075e7c5e" tvg-name="Bob Esponja" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" group-title="Nuevo en Pluto TV", Bob Esponja
