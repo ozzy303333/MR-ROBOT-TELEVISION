@@ -5,37 +5,37 @@ http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/1
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/2
 #EXTINF:-1 group-title="CINEMA:" ,AMC SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/3
-#EXTINF:-1 group-title="CINEMA:" ,AZTECA CINEMA
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://adictosalatele.com/logos/aztecacinema.png" ,AZTECA CINEMA
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/4
-#EXTINF:-1 group-title="CINEMA:" ,CINE CANAL SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CinecanalLA.png/1200px-CinecanalLA.png" ,CINE CANAL SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/5
-#EXTINF:-1 group-title="CINEMA:" ,CINE LATINO SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://cdn.mitvstatic.com/channels/0d5c82f5-c658-478d-9cc7-004599ecd6b2_m.jpg" ,CINE LATINO SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/6
-#EXTINF:-1 group-title="CINEMA:" ,CINEMAX SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://style.shockvisual.net/wp-content/uploads/2020/03/cinemax.jpg" ,CINEMAX SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/7
-#EXTINF:-1 group-title="CINEMA:" ,CLARO CINEMA SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://televisiongratisenvivo.com/wp-content/uploads/2018/09/CLARO-CINEMA-EN-VIVO-ONLINE-LIVE-EN-DIRECTO.jpg" ,CLARO CINEMA SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/8
-#EXTINF:-1 group-title="CINEMA:" ,DE PELICULA PLUS
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://es.wikipedia.org/wiki/De_Pel%C3%ADcula#/media/Archivo:De_pelicula_logo.png" ,DE PELICULA PLUS
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/9
-#EXTINF:-1 group-title="CINEMA:" ,DE PELICULA TP MX
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/De_pelicula_logo.png" ,DE PELICULA TP MX
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/10
-#EXTINF:-1 group-title="CINEMA:" ,FOX ACTION SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://lh3.googleusercontent.com/proxy/scO8DTgnKVF588j_CkeBmd7X0BdrAjRvDhI971cMEOPi00OkQi8cZRyHNENmykHY_Vez2GUZjoZY8NzIxUTeOZ58GoONWy0xfVakYUJxEH2xxgoEcZsetr_Ygag7WQzP" ,FOX ACTION SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/11
-#EXTINF:-1 group-title="CINEMA:" ,FOX CLASICO SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Fox_%282%29.png" ,FOX CLASICO SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/14
-#EXTINF:-1 group-title="CINEMA:" ,FOX COMEDY SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/87/Fox_Premium_Comedy_2017.svg/revision/latest/scale-to-width-down/340?cb=20200510184632&path-prefix=es" ,FOX COMEDY SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/15
-#EXTINF:-1 group-title="CINEMA:" ,FOX FAMYLY SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://etb.com/hogares/img1/guia/logos/logo-ffami.jpg" ,FOX FAMYLY SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/16
-#EXTINF:-1 group-title="CINEMA:" ,FOX MOVIES SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fetb.com%2Fhogares%2FFibra-Guia.aspx&psig=AOvVaw05bgMfXw8tn0mXIgJahtG8&ust=1609027461089000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOia3Las6u0CFQAAAAAdAAAAABAD" ,FOX MOVIES SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/17
-#EXTINF:-1 group-title="CINEMA:" ,FOX SERIES SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="data:image/png;base64,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" ,FOX SERIES SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/18
-#EXTINF:-1 group-title="CINEMA:" ,GOLDEN PREMIER 1
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" ,GOLDEN PREMIER 1
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/19
-#EXTINF:-1 group-title="CINEMA:" ,GOLDEN SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-hd_m.png" ,GOLDEN SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/20
-#EXTINF:-1 group-title="CINEMA:" ,HBO 1 SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" ,HBO 1 SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/21
 #EXTINF:-1 group-title="CINEMA:" ,HBO 2 SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/22
