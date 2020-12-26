@@ -37,23 +37,23 @@ http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/19
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/20
 #EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1200px-HBO_logo.svg.png" ,HBO 1 SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/21
-#EXTINF:-1 group-title="CINEMA:" ,HBO 2 SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://cdn.mitvstatic.com/channels/mx_hbo-2_m.png" ,HBO 2 SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/22
-#EXTINF:-1 group-title="CINEMA:" ,HBO Family SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" ,HBO Family SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/23
-#EXTINF:-1 group-title="CINEMA:" ,HBO MUNDI
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png" ,HBO MUNDI
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/24
-#EXTINF:-1 group-title="CINEMA:" ,HBO Plus SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" ,HBO Plus SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/25
-#EXTINF:-1 group-title="CINEMA:" ,HBO XTREAME SD *
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" ,HBO XTREAME SD *
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/26
-#EXTINF:-1 group-title="CINEMA:" ,MULTICINEMA SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MC.png" ,MULTICINEMA SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/27
-#EXTINF:-1 group-title="CINEMA:" ,MULTIPREMIER SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://cdn.mitvstatic.com/channels/a4fcb1bf-cfa6-47b0-941a-7e09f802139e_m.jpg" ,MULTIPREMIER SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/28
-#EXTINF:-1 group-title="CINEMA:" ,PARAMOUNT SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Paramount_Channel.svg/1200px-Paramount_Channel.svg.png" ,PARAMOUNT SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/29
-#EXTINF:-1 group-title="CINEMA:" ,SPACE SD*
+#EXTINF:-1 group-title="CINEMA:" tvg-logo="https://image.shutterstock.com/image-vector/sd-negative-space-letter-logo-600w-351733376.jpg" ,SPACE SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/30
 #EXTINF:-1 group-title="CINEMA:" ,STUDIO UNIVERSAL SD*
 http://zufreelist.net:8080/kZ3545HGJF/g4iEV5QOzS/31
