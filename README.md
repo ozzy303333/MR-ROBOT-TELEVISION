@@ -313,3 +313,411 @@ http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafg
 http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/89
 #EXTINF:-1 group-title="Ungrouped" tvg-logo="https://cdn.mitvstatic.com/channels/126c4368-ce89-4282-9b09-4f0f71bc8503_m.jpg" ,NIÃ‘OS: TOONCAST TP MX
 http://zufreelist.net:8080/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/afgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaergaafgbvaerga/93
+
+
+
+
+
+
+#EXTINF:-1,LA1 FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16288
+#EXTINF:-1,LA1 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8782
+#EXTINF:-1,LA1 ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7215
+#EXTINF:-1,LA2 FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8781
+#EXTINF:-1,LA2 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7214
+#EXTINF:-1,LA Sexta FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16260
+#EXTINF:-1,LA Sexta HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7213
+#EXTINF:-1,LA Sexta ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6671
+#EXTINF:-1,Antena 3 FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7253
+#EXTINF:-1,Antena 3 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8779
+#EXTINF:-1,Cuatro FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7228
+#EXTINF:-1,Cuatro HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8777
+#EXTINF:-1,Telecinco FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14022
+#EXTINF:-1,Telecinco HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/11488
+#EXTINF:-1,#0 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16283
+#EXTINF:-1,#0 ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13539
+#EXTINF:-1,24 Horas ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7174
+#EXTINF:-1,DW ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13532
+#EXTINF:-1,TV Galicia ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7218
+#EXTINF:-1,TV3 Catalunya HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8780
+#EXTINF:-1,TV 3 Catalunya ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7175
+#EXTINF:-1,Andalucia ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7254
+#EXTINF:-1,7RM VIP ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/683550
+#EXTINF:-1,13 TV ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13547
+#EXTINF:-1,8TV Madrid ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13545
+#EXTINF:-1,RTVA ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8775
+#EXTINF:-1,XTRM HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13527
+#EXTINF:-1,Red Advenir ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13524
+#EXTINF:-1,AXN HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7252
+#EXTINF:-1,AXN ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13543
+#EXTINF:-1,AXN White FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7251
+#EXTINF:-1,AXN White ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13542
+#EXTINF:-1,AMC FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7255
+#EXTINF:-1,SyFy FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13522
+#EXTINF:-1,SyFy HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13523
+#EXTINF:-1,Fox FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16267
+#EXTINF:-1,Fox ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7220
+#EXTINF:-1,FOX Life FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16266
+#EXTINF:-1,Fox Life ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7219
+#EXTINF:-1,TNT FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7177
+#EXTINF:-1,Sundance TV ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/14121
+#EXTINF:-1,Movistar Series FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7191
+#EXTINF:-1,Movistar Series HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16282
+#EXTINF:-1,Movistar Series ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8767
+#EXTINF:-1,Movistar Seriesmania FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7190
+#EXTINF:-1,Movistar Seriesmania ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8770
+#EXTINF:-1,Movistar Accion FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7245
+#EXTINF:-1,Movistar Accion HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16280
+#EXTINF:-1,Movistar Accion ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7195
+#EXTINF:-1,Movistar Drama FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685775
+#EXTINF:-1,Movistar Drama HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685776
+#EXTINF:-1,Movistar Comedia FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7243
+#EXTINF:-1,Movistar Comedia HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7194
+#EXTINF:-1,Movistar Esternos FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7192
+#EXTINF:-1,Movistar Estrenos FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16262
+#EXTINF:-1,Movistar Estrenos HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8771
+#EXTINF:-1,Movistar Estrenos ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7222
+#EXTINF:-1,Movistar DCine FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16279
+#EXTINF:-1,Movistar DCine HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7193
+#EXTINF:-1,Movistar DCine ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7242
+#EXTINF:-1,Movistar CineDoc & Roll ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7233
+#EXTINF:-1,Movistar Cine ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13530
+#EXTINF:-1,Neox TV HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7186
+#EXTINF:-1,Neox TV ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16264
+#EXTINF:-1,Cosmo FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7229
+#EXTINF:-1,Cosmopolitan HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13537
+#EXTINF:-1,Calle 13 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7247
+#EXTINF:-1,Comedy Central HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7230
+#EXTINF:-1,A3 Series ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13544
+#EXTINF:-1,Nova HD VIP ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/684927
+#EXTINF:-1,Nova ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7183
+#EXTINF:-1,Divinity HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13534
+#EXTINF:-1,Energy ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8765
+#EXTINF:-1,Taquilla 1 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7211
+#EXTINF:-1,Taquilla 1 ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8756
+#EXTINF:-1,Taquilla 3 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7209
+#EXTINF:-1,Taquilla 3 ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8754
+#EXTINF:-1,Taquilla 5 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7207
+#EXTINF:-1,Taquilla 5 ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8752
+#EXTINF:-1,Taquilla 6 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7206
+#EXTINF:-1,Taquilla 6 ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8751
+#EXTINF:-1,Taquilla 7 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7205
+#EXTINF:-1,Taquilla 7 ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8750
+#EXTINF:-1,Taquilla 8 HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7204
+#EXTINF:-1,Taquilla 8 ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13520
+#EXTINF:-1,TCM HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7180
+#EXTINF:-1,Paramount Channel ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8769
+#EXTINF:-1,Hollywood FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8768
+#EXTINF:-1,Hollywood HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7216
+#EXTINF:-1,Discovery Channel ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7226
+#EXTINF:-1,Discovery Dmax ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13535
+#EXTINF:-1,National Geographic HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13528
+#EXTINF:-1,National Geographic ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16270
+#EXTINF:-1,Nat Geo Wild ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7188
+#EXTINF:-1,Crime & Investigation ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8757
+#EXTINF:-1,Historia ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7217
+#EXTINF:-1,Canal Cocina ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7244
+#EXTINF:-1,DeCasa ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7241
+#EXTINF:-1,Dkiss HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13533
+#EXTINF:-1,Mega FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16263
+#EXTINF:-1,Mega HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13824
+#EXTINF:-1,Mega ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8760
+#EXTINF:-1,Blaze ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7184
+#EXTINF:-1,Caza y Pesca FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16269
+#EXTINF:-1,Caza y Pesca ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7232
+#EXTINF:-1,Iberalia ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7171
+#EXTINF:-1,Odisea TV HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/685777
+#EXTINF:-1,MTV Espana ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8759
+#EXTINF:-1,FDF ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7221
+#EXTINF:-1,Ten ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13518
+#EXTINF:-1,Mezzo HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7212
+#EXTINF:-1,Baby TV ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8774
+#EXTINF:-1,Disney Channel FHD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16287
+#EXTINF:-1,Disney Channel HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7225
+#EXTINF:-1,Disney+ ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7223
+#EXTINF:-1,Disney Junior ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7224
+#EXTINF:-1,Nickelodeon HD ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16268
+#EXTINF:-1,Nickelodeon ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7185
+#EXTINF:-1,Nick Jr. ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/13526
+#EXTINF:-1,Boing ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8773
+#EXTINF:-1,Canal Panda ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/53156
+#EXTINF:-1,Clan TVE ES
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/7231
+#EXTINF:-1,A&E LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6673
+#EXTINF:-1,AMC LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6674
+#EXTINF:-1,AXN LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6762
+#EXTINF:-1,Azteca 13 MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6682
+#EXTINF:-1,Azteca Noticias MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6676
+#EXTINF:-1,Animal Planet LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6675
+#EXTINF:-1,Canal 5 HD MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6685
+#EXTINF:-1,Canal De Las Estrellas MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6686
+#EXTINF:-1,Cartoon Network FHD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6689
+#EXTINF:-1,Cinecanal FHD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6691
+#EXTINF:-1,De Pelicula MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6711
+#EXTINF:-1,Discovery Civilization LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6695
+#EXTINF:-1,Disney Channel FHD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6700
+#EXTINF:-1,Distrito Comedia MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6705
+#EXTINF:-1,ESPN LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6710
+#EXTINF:-1,ESPN 2 LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6709
+#EXTINF:-1,ESPN 3 LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/33497
+#EXTINF:-1,Foro TV MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6713
+#EXTINF:-1,Fox LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6724
+#EXTINF:-1,Fox Action FHD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6714
+#EXTINF:-1,Fox Classics FHD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6716
+#EXTINF:-1,Fox Premium Movies LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6720
+#EXTINF:-1,Fox Series LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6718
+#EXTINF:-1,Fox Cinema LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6715
+#EXTINF:-1,Fox Life LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6719
+#EXTINF:-1,Fox Sports LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/67322
+#EXTINF:-1,Fox Sport 2 LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/67132
+#EXTINF:-1,Glitz LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6669
+#EXTINF:-1,Golden MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6727
+#EXTINF:-1,Golden Edge MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6728
+#EXTINF:-1,MTV Hits LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6756
+#EXTINF:-1,Multimedios MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6733
+#EXTINF:-1,Nickelodeon LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6736
+#EXTINF:-1,TNT Series FHD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6750
+#EXTINF:-1,Tru TV LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6760
+#EXTINF:-1,Unicable LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6752
+#EXTINF:-1,Studio Universal MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6741
+#EXTINF:-1,Discovery Home and Health LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6696
+#EXTINF:-1,Proyecto 40 MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6738
+#EXTINF:-1,Space FHD MX
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6740
+#EXTINF:-1,TCM LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6758
+#EXTINF:-1,Canal Gourmet FHD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6687
+#EXTINF:-1,SyFy FHD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6742
+#EXTINF:-1,TeleFormula FHD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/6745
+#EXTINF:-1,Azteca Noticias LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8743
+#EXTINF:-1,Azteca Honduras LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/8744
+#EXTINF:-1,Telemundo HD LAM
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/16982
+#EXTINF:-1,13 Max TV ARG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626945
+#EXTINF:-1,C5N ARG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626941
+#EXTINF:-1,Canal 4 HD ARG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626903
+#EXTINF:-1,DeporTV FHD ARG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626931
+#EXTINF:-1,El Nueve ARG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626927
+#EXTINF:-1,El Nueve FHD ARG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626901
+#EXTINF:-1,Fox Sports 1 HD ARG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626925
+#EXTINF:-1,TYC ARG
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626909
+#EXTINF:-1,ATV HD PE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626980
+#EXTINF:-1,Capital TV PE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626979
+#EXTINF:-1,Monterrico TV PE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626976
+#EXTINF:-1,Next TV PE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626975
+#EXTINF:-1,Panamericana PE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626974
+#EXTINF:-1,Peru Magico PE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626973
+#EXTINF:-1,TNP PE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626970
+#EXTINF:-1,TV Peru HD PE
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626969
+#EXTINF:-1,Azteca Honduras HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626967
+#EXTINF:-1,Canal 5 HD HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626964
+#EXTINF:-1,Canal 5 HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626963
+#EXTINF:-1,Canal 6 HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626962
+#EXTINF:-1,Canal 11 HD HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626966
+#EXTINF:-1,Canal 11 HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626965
+#EXTINF:-1,HCH TV HD HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626960
+#EXTINF:-1,Mega TV HD HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626957
+#EXTINF:-1,Sulavisión HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626955
+#EXTINF:-1,Telecadena HD HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626954
+#EXTINF:-1,Telecadena HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626953
+#EXTINF:-1,Teleceiba HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626952
+#EXTINF:-1,Telesistema HD HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626950
+#EXTINF:-1,Une TV HN
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/626947
+#EXTINF:-1,Unimas West HD LA
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/637344
+#EXTINF:-1,WAPA HD LA
+http://mypanel.tv:8080/live:cardak7_1/HSi2ulXczL/638077
