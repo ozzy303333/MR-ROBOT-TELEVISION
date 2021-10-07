@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,YOUTUBE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633604903/ei/x4BeYc3rLoObj-8P0KKSEA/ip/186.155.32.224/id/v3WxdVM0rd8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIzjNXQJBJJKg6sISO5oILq7IdRmgf0ArD000DUjcbzoAiEA0rKp-Au5zlJXGRqxtZaGrryHd1dA-mtKjUYlkbvHLf0%3D/file/index.m3u8
 #EXTINF:-1,101 Tele Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1,101TV Malaga
