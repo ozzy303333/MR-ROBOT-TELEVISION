@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1,YOUTUBE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633604903/ei/x4BeYc3rLoObj-8P0KKSEA/ip/186.155.32.224/id/v3WxdVM0rd8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIzjNXQJBJJKg6sISO5oILq7IdRmgf0ArD000DUjcbzoAiEA0rKp-Au5zlJXGRqxtZaGrryHd1dA-mtKjUYlkbvHLf0%3D/file/index.m3u8
-#EXTINF:-1,LOS SIMPSON
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1633605606/ei/hYNeYcHVONHQ4QTu0KmgBA/ip/186.155.32.224/id/ThK526JxLXU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/9466586/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgHLGizU5BYAB-IH0fxjWkq2AQ3bwRDnghBJF9nAisuJECIE2SI94VezZ6j_GijHdca_m0Haokv-ZPRr2lXx-uevk6/file/index.m3u8
-
 #EXTINF:-1,101 Tele Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
 #EXTINF:-1,101TV Malaga
@@ -24,8 +19,6 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1,ADN 40 (XHTVM-TDT) (480p)
 https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8
-#EXTINF:-1,AE Radio Tv (720p)
-http://edge1.cl.grupoz.cl/aeradio/live/index.m3u8
 #EXTINF:-1,Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1,Alegria TV (480p)
@@ -62,8 +55,6 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1,Cali TV (540p)
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
-#EXTINF:-1,Campo Abierto TV (Huechuraba) (480p)
-http://v3.tustreaming.cl/campoabierto/live1/playlist.m3u8
 #EXTINF:-1,Canal 10 Cancún (720p)
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1,Canal 10 Mar del Plata (720p)
@@ -74,8 +65,6 @@ https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8
 https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
 #EXTINF:-1,Canal 2 Telpin (720p)
 https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:-1,Canal 21 (720p)
-http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
 #EXTINF:-1,Canal 24 horas (576p)
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 #EXTINF:-1,Canal 25 TV (Barbastro)
@@ -108,12 +97,6 @@ https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
 #EXTINF:-1,Canal Mundo+ (560p)
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-#EXTINF:-1,Canal Once Internacional
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
-#EXTINF:-1,Canal Once Internacional
-https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist.m3u8
-#EXTINF:-1,Canal Once Nacional
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
 #EXTINF:-1,Canal Parlamento (360p)
 https://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8
 #EXTINF:-1,Canal Provincial (San Miguel) (360p)
@@ -164,8 +147,6 @@ https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
 http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
 #EXTINF:-1,Diez TV
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
-#EXTINF:-1,Distrito TV
-https://cdn01.yowi.tv/KQRSDA7GDB/master.m3u8
 #EXTINF:-1,Ebenezer TV (1080p)
 http://p1.worldkast.com/ebenezertv2/ngrp:ebenezertv2_all/playlist.m3u8
 #EXTINF:-1,EITB (360p)
@@ -204,8 +185,6 @@ https://cu.onliv3.com/livevd1/user2.m3u8
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1,Extrema TV
 https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
-#EXTINF:-1,Fion TV
-http://stream.fion.es:1936/live/smil:fion.smil/master.m3u8
 #EXTINF:-1,France 24 Español
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 #EXTINF:-1,France 24 Español
@@ -226,16 +205,12 @@ https://wowzaprod130-i.akamaihd.net/hls/live/570468/275f3ea5/playlist.m3u8
 http://37.187.7.106/hechostv/live.m3u8
 #EXTINF:-1,HiperTV (720p)
 https://inliveserver.com:1936/11010/11010/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1,Huesca TV
-https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8
 #EXTINF:-1,Iglesia Del Camino
 http://streamingcontrol.com:1935/ectv/ectv/chunklist_w615405992.m3u8
 #EXTINF:-1,Imás TV
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1,Interalmeria TV
 https://interalmeria.tv/directo/live.m3u8
-#EXTINF:-1,Intercomarcal TV
-http://78.41.83.88:8880/hls/tvixa.m3u8
 #EXTINF:-1,IPE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,ITV Patagonia (720p)
@@ -264,8 +239,6 @@ https://wowzaprod197-i.akamaihd.net/hls/live/783141/f46281b4/playlist.m3u8
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1,Mar TV
 http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8
-#EXTINF:-1,Marina Stereo (720p)
-https://rtmp02.portalexpress.es/marinastereo/marinastereo/playlist.m3u8
 #EXTINF:-1,Microvision
 http://190.103.183.24:1935/live/MicroHD/chunklist.m3u8
 #EXTINF:-1,Microvision 10 (720p)
@@ -536,8 +509,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1,Pluto TV Telefe Clásico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1,Pluto TV Telefe Noticias
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1,Pluto TV Telemundo Telenovelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1,Pluto TV The New Detectives
@@ -630,8 +601,6 @@ https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 https://sony-novelas-1.roku.wurl.com/playlist_1280x720_3000k.m3u8
 #EXTINF:-1,Sophia TV (720p)
 https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
-#EXTINF:-1,Spotlight
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Super TV 55 (Santiago) (720p)
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1,Super TV 55 (Santiago) (720p)
@@ -646,18 +615,6 @@ http://cdn.setar.aw:1935/Telearuba/smil:telearuba.smil/playlist.m3u8
 https://backend-server-dot-telearuba-app.appspot.com/media/livestream13/playlist.m3u8
 #EXTINF:-1,TeleBendicion (720p)
 http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
-#EXTINF:-1,Telecaribe
-https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/2196k/index.m3u8
-#EXTINF:-1,Telecaribe
-https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/3296k/index.m3u8
-#EXTINF:-1,Telecaribe
-https://telecaribe-hd.gcdn.anvato.net/hls/live/telecaribehd/496k/index.m3u8
-#EXTINF:-1,Telecaribe Deportes 2
-https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
-#EXTINF:-1,Telecaribe Deportes 2
-https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/3296k/index.m3u8
-#EXTINF:-1,Telecaribe Deportes 2
-https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/496k/index.m3u8
 #EXTINF:-1,Telefe Rosario (720p)
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 #EXTINF:-1,Telefuturo 23 (720p)
@@ -702,8 +659,6 @@ http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
 #EXTINF:-1,TEN Canal 10 (720p)
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/playlist.m3u8
-#EXTINF:-1,Tendencias TV (1080p)
-https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
 #EXTINF:-1,Thema TV (La Serena) (720p)
 https://unlimited10-cl.dps.live/thema/thema.smil/thema/livestream1/playlist.m3u8
 #EXTINF:-1,TicaVisión (720p)
@@ -738,8 +693,6 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1,TV Plata (1080p)
 https://ss6.domint.net:3104/tvp_str/tvplata/playlist.m3u8
-#EXTINF:-1,TV Shows
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,TV3CAT (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:tv3_web/playlist_DVR.m3u8
 #EXTINF:-1,TV5 Linares (720p)
@@ -766,16 +719,6 @@ http://tv.ulagos.cl/web/live.m3u8
 http://170.79.102.223/UCI/index.m3u8
 #EXTINF:-1,UCSG
 http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist.m3u
-#EXTINF:-1,UES TV (720p)
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
-#EXTINF:-1,UES TV (720p)
-http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
-#EXTINF:-1,UES TV (720p)
-http://edge1.cl.grupoz.cl/uestv/live/playlist_DVR.m3u8
-#EXTINF:-1,UMAGTV Punta Arenas (720p)
-http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
-#EXTINF:-1,Une Vinalopó
-http://78.41.83.88:8880/hls/unesd.m3u8
 #EXTINF:-1,Unicanal
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1,Universidad Autonoma Temuco (1080p)
@@ -794,8 +737,6 @@ https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1,VTV Valle de Aconcagua
 http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
-#EXTINF:-1,WORO-DT (720p)
-https://5983a4e15f07f.streamlock.net:8443/worocanal13pr/worocanal13pr/playlist.m3u8
 #EXTINF:-1,Wow (El Salvador) (720p)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
 #EXTINF:-1,WOW TV
@@ -804,12 +745,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8
 https://59514edd5dd8e.streamlock.net/unoradio/unoradio1/playlist.m3u8
 #EXTINF:-1,Xto TV (404p)
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/chunklist.m3u8
-#EXTINF:-1,Zee Mundo (720p)
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1,Zol106 (720p)
 https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
-#EXTINF:-1,TRECE
-https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8
 #EXTINF:-1,Nius SD
 https://mdslivehlsb-i.akamaihd.net/hls/live/875601-b/niusdiario/03.m3u8
 #EXTINF:-1,+24
@@ -824,8 +761,6 @@ https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586405/master.m3u8
 https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=y3-IxQxNk4XjlfJDtBjIh7tfO628d9gbkd010uKioms&output=ginkIjHWeyffMLRZNMVovht3RnH_feedjshkMm7sr14&channel=D1tXjvcs_5NeEEMxP6mrmSggh3Uyu3kE5jyqGlgCZ4A&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
 #EXTINF:-1,La Moncloa (Ministros)
 https://cdnswitch-mediahub.overon.es/stream/stream.m3u8?key=R6w5wbcxW3dLF9aNOGEsHuoNhqfSJoiRWNDWLLfNslI&pwd=QheEdHkaeHFGDHJgIwzUDoqcVjjFMef8TMGuGvkMets&stream=o0RCNMRf-BPdBiuDSId7vbxANj4YFVpbXkxNkFKm35s&output=z3mwepuDBMOnja63VsgAcCGwmmOPD-I5yFYOiyCvBcc&channel=FBDoImE2NP77XpNbdycjnwCkI0YjxLeqTKr8QGV9bAI&protocol=4CMm-Q0epGZ0SHQGeELoqqA2gfzFVCFwoiACYszyPM4&type=3pIgQ1TALsxZg7Zf0kZLkA4InWPfKONROAImuoufxKg
-#EXTINF:-1,Radio Nacional
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586409/master.m3u8
 #EXTINF:-1,Radio 5
 https://rtvev4-live-hss.secure.footprint.net/egress/ahandler/rtvegl0/rne_c102_lv3_aosv4_gl0/rne_c102_lv3_aosv4_gl0.isml/master.m3u8
 #EXTINF:-1,La 1 Andalucía
@@ -852,8 +787,6 @@ http://cpd.bailen.tv:8080/Playlist_CANAL_24H/playlist.m3u8
 https://5924d3ad0efcf.streamlock.net/cordoba/cordobalive/playlist.m3u8
 #EXTINF:-1,8 TV Cádiz
 https://5940924978228.streamlock.net/8289/smil:8289.smil/master.m3u8
-#EXTINF:-1,Cancionero TV
-http://89.140.229.4/hls/cancionero.m3u8
 #EXTINF:-1,La 1 Aragón
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@381054/master.m3u8
 #EXTINF:-1,La 1 Canarias
@@ -898,10 +831,6 @@ https://directes-tv-int.ccma.cat/int/ngrp:beauties_web/playlist_DVR.m3u8
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/playlist.m3u8
 #EXTINF:-1,betevé
 https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n6442jz0/format/applehttp/.m3u8?referrer=aHR0cHM6Ly9iZXRldmUuY2F0
-#EXTINF:-1,TAC 12
-https://nodo01-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
-#EXTINF:-1,TAC 12
-https://nodo02-cloud01.streaming-pro.com/tac12tv/hls/tac12_2.m3u8
 #EXTINF:-1,TV de Girona
 http://ventdelnord.tv:8080/girona/directe.m3u8
 #EXTINF:-1,Canal 10 Empordà
@@ -934,8 +863,6 @@ https://cdn01.yowi.tv/5RO3JQE6LN/master.m3u8
 https://stream.maestrat.tv/hls/stream.m3u8
 #EXTINF:-1,Onda 15 TV
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
-#EXTINF:-1,Tele Sagunto
-https://5940924978228.streamlock.net/Directo1_1/smil:Directo1_1.smil/playlist.m3u8
 #EXTINF:-1,La 1 Extremadura
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@380750/master.m3u8
 #EXTINF:-1,TV Extremeña
@@ -990,12 +917,6 @@ https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
 https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
 #EXTINF:-1,RTCG Montenegro
 http://rtcg3.videostreaming.rs:1935/rtcg/smil:rtcg.smil/playlist.m3u8
-#EXTINF:-1,Televizija Eslovenia
-https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
-#EXTINF:-1,Televizija Eslovenia
-https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
-#EXTINF:-1,Televizija Eslovenia
-https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8?DVR
 #EXTINF:-1,RÚV Islandia
 https://ruvruverl-live-hls.secure.footprint.net/4cb25e14619fb1e9711a400b8a5b21119605cb9a-1/ruv/ruverl/index/stream1.m3u8
 #EXTINF:-1,RÚV Islandia
@@ -1016,22 +937,12 @@ http://iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3
 https://weathernationtv.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,America's Voice USA EN
 https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
-#EXTINF:-1,Zee Mundo USA
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v2a1/index-1582268679-now.m3u8
 #EXTINF:-1,Newsmax TV USA EN
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/master.m3u8
-#EXTINF:-1,CBN USA
-https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
 #EXTINF:-1,CBN USA EN
 https://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1,ADN40 Mexico
 https://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1,Canal Once Mexico
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1,Canal Once Mexico
-https://live2.canaloncelive.tv/livepkgr2/internacional.smil/.m3u8
-#EXTINF:-1,Turistik TV Mexico
-https://5fa5de1a545ae.streamlock.net/turistik/turistik/playlist.m3u8
 #EXTINF:-1,Canal IPe Perú
 https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1,Televen TV Venezuela
@@ -1040,8 +951,6 @@ https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
 http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1,Unicanal Paraguay
 http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF:-1,Nicavisión TV Nicaragua
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8
 #EXTINF:-1,Canal 33 El Salvador
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8
 #EXTINF:-1,CGTN
@@ -1056,8 +965,6 @@ https://www.news24.jp/livestream/index.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,Geo News Pakistan
 https://jk3lz82elw79-hls-live.5centscdn.com/Geo/eae835e83c0494a376229f254f7d3392.sdp/Geo/Stream1/playlist_dvr.m3u8
-#EXTINF:-1,Express News Pakistan
-https://5ab29cc78f681.streamlock.net/expressdigital1/livestream/master.m3u8
 #EXTINF:-1,India Today EN
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1,India Today
@@ -1094,8 +1001,6 @@ https://video.blivenyc.com/broadcast/prod/2061/29/desktop-playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1,Garage TV
 http://186.0.233.76:1935/Garage/garage.smil/.m3u8
-#EXTINF:-1,OnlyMotors EN
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=553
 #EXTINF:-1,MotorTrend Italia IT
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
 #EXTINF:-1,Cadena Elite España
@@ -1172,14 +1077,8 @@ https://muzzik-live.morescreens.com/mts-8/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-a3/playlist.m3u8
 #EXTINF:-1,#
 https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
-#EXTINF:-1,Onda Digital Perú
-http://184.154.28.210:1935/ondadigital/ondadigital/playlist.m3u8
-#EXTINF:-1,Telemúsica Colombia
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 #EXTINF:-1,Music Top Argentina
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1,Melody Channel Colombia
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/playlist.m3u8
 #EXTINF:-1,Ditty TV USA EN
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
 #EXTINF:-1,RTV Vida España
@@ -1432,8 +1331,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac65911406400078b89
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,FailArmy
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,Pluto TV Star Trek
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ec5761aabe4690007f6e047/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Wipe Out
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,Pluto TV FashionBox
