@@ -24,74 +24,8 @@ http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1,Alegria TV (480p)
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1,Aliento Vision (480p)
-http://livestreamcdn.net:1935/AlientoSD/AlientoSD/playlist.m3u8
-#EXTINF:-1,América
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_540p.m3u8
-#EXTINF:-1,América
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
-#EXTINF:-1,Anexion TV (360p)
-https://rtmp.info/anexiontv/envivo/playlist.m3u8
-#EXTINF:-1,Anexion TV 36 (360p)
-http://rtmp.info:8081/anexiontv/envivo/index.m3u8
-#EXTINF:-1,Antofagasta TV (720p)
-https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
-#EXTINF:-1,Argentinísima Satelital
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
-#EXTINF:-1,ATB Cochabamba (360p)
-https://mediacp.hostradios.com.ar:19360/atbcochabamba/atbcochabamba.m3u8
-#EXTINF:-1,ATB La Paz (340p)
-https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
-#EXTINF:-1,Avivamiento (720p)
-https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1,BHtv (720p)
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1,Bolivia TV (720p)
-http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1,Bolivia TV 7.2 (720p)
-https://video1.getstreamhosting.com:1936/8224/8224/chunklist_w1684483949.m3u8
-#EXTINF:-1,Bolivia TV 7.2 (720p)
-https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
-#EXTINF:-1,Cali TV (540p)
-http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8
-#EXTINF:-1,Cali TV (540p)
-https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
-#EXTINF:-1,Canal 10 Cancún (720p)
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-#EXTINF:-1,Canal 10 Mar del Plata (720p)
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
-#EXTINF:-1,Canal 2
-https://video13.virtualtronics.com/streamer/canal2_360/index.m3u8
-#EXTINF:-1,Canal 2
-https://video13.virtualtronics.com/streamer/canal2_720/index.m3u8
-#EXTINF:-1,Canal 2 Telpin (720p)
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
-#EXTINF:-1,Canal 24 horas (576p)
-https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:-1,Canal 25 TV (Barbastro)
-https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:-1,Canal 26 (360p)
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w125697617_b1264000_sleng.m3u8
-#EXTINF:-1,Canal 26 (720p)
-http://live-edge01.telecentro.net.ar:1935/live/26hd-720/playlist.m3u8
-#EXTINF:-1,Canal 26 (360p)
-https://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
-#EXTINF:-1,Canal 26 (720p)
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-#EXTINF:-1,Canal 33 Madrid (1080p)
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
-#EXTINF:-1,Canal 4 Jujuy
-https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w2121338131_b316000.m3u8
-#EXTINF:-1,Canal 45 TV
-https://cdn01.yowi.tv/503L6OKTE2/master.m3u8
-#EXTINF:-1,Canal 9 Televida Mendoza (720p)
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/.m3u8
-#EXTINF:-1,Canal Amé 47 (720p)
-http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
-#EXTINF:-1,Canal Catorce (720p)
-https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index.m3u8
-#EXTINF:-1,CANAL COSTA TV
-https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/playlist.m3u8
-#EXTINF:-1,Canal d
+#EXTINF:-1,Pluto TV The New Detectives
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 https://cdn01.yowi.tv/DDDDDDDDDD/master.m3u8
 #EXTINF:-1,Canal Mar del Plata
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
