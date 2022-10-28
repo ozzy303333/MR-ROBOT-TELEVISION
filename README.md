@@ -65,8 +65,6 @@ http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
 http://streaming.elpinguino.com:1935/live/pinguinotv_720p/playlist.m3u8
 #EXTINF:-1,Esperanza TV (480p)
 http://k3.usastreams.com:1935/etvSD/etvSD/playlist.m3u8
-#EXTINF:-1,Euronews en Español
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,Exitosa Noticias
 https://cu.onliv3.com/livevd1/user2.m3u8
 #EXTINF:-1,Extrema TV (720p)
@@ -467,8 +465,6 @@ https://wowzaprod256-i.akamaihd.net/hls/live/779970/7e9bac89/playlist.m3u8
 https://cm.hostlagarto.com:4445/TRIBUNA-TV/tribuna.myStream/playlist.m3u8
 #EXTINF:-1,Tuya La Janda Televisión
 http://185.210.20.13:8080/0.m3u8
-#EXTINF:-1,TV Gracia (720p)
-https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 #EXTINF:-1,TV Perú
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1,TV Perú Noticias
@@ -557,8 +553,6 @@ http://ventdelnord.tv:8080/escala/directe.m3u8
 https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1,Ribera TV
 https://common01.todostreaming.es/live/ribera-livestream.m3u8
-#EXTINF:-1,Alacantí TV
-https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8
 #EXTINF:-1,Canal 56
 https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:-1,Maestrat TV
@@ -567,8 +561,6 @@ https://stream.maestrat.tv/hls/stream.m3u8
 https://cloudvideo.servers10.com:8081/8034/index.m3u8
 #EXTINF:-1,#
 https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
-#EXTINF:-1,CNN Internacional
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,France 24 Francia EN
 https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
 #EXTINF:-1,France 24 Francia FR
@@ -577,8 +569,6 @@ https://static.france24.com/live/F24_FR_HI_HLS/live_web.m3u8
 http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
 #EXTINF:-1,ABC News USA EN
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1,Cheddar USA EN
-https://cheddar.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,CourtTV USA EN
 https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8
 #EXTINF:-1,NASA TV Media
@@ -595,12 +585,6 @@ https://cdnh8.iblups.com/hls/OVJNKV4pSr.m3u8
 http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1,Unicanal Paraguay
 http://45.55.127.106/live/unicanal_mid.m3u8
-#EXTINF:-1,CGTN
-https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-#EXTINF:-1,CGTN News EN
-https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1,CGTN Documentary EN
-https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1,Arirang TV Korea EN
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1,India Today EN
@@ -611,10 +595,6 @@ https://feeds.intoday.in/aajtak/api/master.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
 #EXTINF:-1,Channel NewsAsia EN
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1,TVK Camboya
-https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/master.m3u8
-#EXTINF:-1,TVK Camboya
-https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
 #EXTINF:-1,RTHK 31 32 Hong Kong
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 #EXTINF:-1,RTHK 31 32 Hong Kong
@@ -641,8 +621,6 @@ https://cloudvideo.servers10.com:8081/8004/index.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1,QMusic Holanda NL
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
-#EXTINF:-1,4FUN TV Polonia PL
-https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
 #EXTINF:-1,Ocko Chequia CZ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1,Ocko Star Chequia CZ
