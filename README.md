@@ -1,14 +1,350 @@
 #EXTM3U
+#EXTINF:-1 group-title="Películas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500019AM_20230926T032405SQUARE.png_20230926032406.png",Comedias - Rakuten TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961413
+#EXTINF:-1 group-title="Películas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC40000248_20221109T010705SQUARE.png_20221109010706.png",Dark Matter TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961447
+#EXTINF:-1 group-title="Películas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD230000143_20230712T021333SQUARE.png_20230712021333.png",Cine Clásico
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961448
+#EXTINF:-1 group-title="Películas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700005EE_20221012T021024SQUARE.png_20221012021024.png",Películas Top - Rakuten TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961449
+#EXTINF:-1 group-title="Películas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500020V7_20220323T081528SQUARE.png_20220323081531.png",Dramas - Rakuten TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961450
+#EXTINF:-1 group-title="Películas" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ45000181E_20220323T081350SQUARE.png_20220323081353.png",Acción - Rakuten TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961451
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3400001AA_20231011T084722SQUARE.png_20231011084722.png",Negocios TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961414
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD190000137_20230614T005931SQUARE.png_20230614005932.png",CNN FAST
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961433
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC400003YM_20230913T030606SQUARE.png_20230913030607.png",NBC News NOW
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961434
+#EXTINF:-1 group-title="Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA140000504_20231011T084727SQUARE.png_20231011084728.png",Stormcast Novelas
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961415
+#EXTINF:-1 group-title="Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1300001EP_20230712T021331SQUARE.png_20230712021332.png",Baywatch – Los Vigilantes de la Playa
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961422
+#EXTINF:-1 group-title="Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700010F6_20230619T082509SQUARE.png_20230619082509.png",Crimen - Rakuten TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961423
+#EXTINF:-1 group-title="Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300039ZX_20220323T081936SQUARE.png_20220323081939.png",Tu Cine
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961424
+#EXTINF:-1 group-title="Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC43000013T_20230915T042726SQUARE.png_20230915042727.png",Todo Novelas
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961425
+#EXTINF:-1 group-title="Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400001OG_20221012T021006SQUARE.png_20221012021006.png",Doctor Who
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961426
+#EXTINF:-1 group-title="Drama" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400003LA_20230614T005905SQUARE.png_20230614005905.png",BBC Drama
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961427
+#EXTINF:-1 group-title="Estilo de Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1500001SD_20231101T032819SQUARE.png_20231101032819.png",Mi chimenea
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961416
+#EXTINF:-1 group-title="Estilo de Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400008NE_20220713T034534SQUARE.png_20220713034534.png",¡Hola! Play
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961436
+#EXTINF:-1 group-title="Estilo de Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD1400001L4_20231101T032753SQUARE.png_20231101032754.png",Travelxp
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961437
+#EXTINF:-1 group-title="Estilo de Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png",GoUSA TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961438
+#EXTINF:-1 group-title="Estilo de Vida" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC3500002PW_20221215T020824SQUARE.png_20221215020824.png",Ideas en 5 Minutos
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961439
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400006NP_20221026T004520SQUARE.png_20221026004521.png",FailArmy
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961417
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500023Y5_20220323T081726SQUARE.png_20220323081728.png",People Are Awesome
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961418
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500016BH_20230222T012037SQUARE.png_20230222012037.png",The Pet Collective
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961419
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2700008SK_20230426T015711SQUARE.png_20230426015712.png",Just For Laughs
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961420
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA1400007MR_20230823T033059SQUARE.png_20230823033100.png",Yu-Gi-Oh!
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961421
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900003ND_20230712T021338SQUARE.png_20230712021338.png",Estilo y Vida – Rakuten TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961435
+#EXTINF:-1 group-title="Factual" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD3700001S0_20231025T032753SQUARE.png_20231025032754.png",DATELINE 24/7
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961428
+#EXTINF:-1 group-title="Factual" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ49000017H_20230125T022413SQUARE.png_20230125022413.png",INFAST
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961429
+#EXTINF:-1 group-title="Factual" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ4500021HQ_20221214T044854SQUARE.png_20221214044855.png",Documentales - Rakuten TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961430
+#EXTINF:-1 group-title="Factual" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC4700002TD_20230426T015717SQUARE.png_20230426015717.png",Love the Planet
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961431
+#EXTINF:-1 group-title="Factual" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC170000388_20231011T082501SQUARE.png_20231011082501.png",WaterBear
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961432
+#EXTINF:-1 group-title="Motor" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESAJ2900001Y3_20230809T053840SQUARE.png_20230809053841.png",Top Gear en Español
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961440
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300017FA_20230208T013037SQUARE.png_20230208013037.png",Familiares - Rakuten TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961441
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300020W5_20220914T041117SQUARE.png_20220914041117.png",Caillou
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961442
+#EXTINF:-1 group-title="Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100002LV_20230913T030617SQUARE.png_20230913030618.png",Vevo Latino
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961443
+#EXTINF:-1 group-title="Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBD2300004Y7_20231011T084725SQUARE.png_20231011084726.png",Sol Música
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961444
+#EXTINF:-1 group-title="Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC2100001IU_20230412T042424SQUARE.png_20230412042425.png",Vevo Pop
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961445
+#EXTINF:-1 group-title="Música" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBA3300043M0_20230614T005924SQUARE.png_20230614005925.png",Trace Urban
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961446
+#EXTINF:-1 group-title="Ungrouped",Antena 7- RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961452
+#EXTINF:-1 group-title="Ungrouped",Canal 4 - NIC
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961453
+#EXTINF:-1 group-title="Ungrouped",Canal 4 - PAN
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961454
+#EXTINF:-1 group-title="Ungrouped",Canal 5 - HON
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961455
+#EXTINF:-1 group-title="Ungrouped",Canal 6 - ESA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961456
+#EXTINF:-1 group-title="Ungrouped",Canal 7 - GUA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961457
+#EXTINF:-1 group-title="Ungrouped",Canal Antigua - GUA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961458
+#EXTINF:-1 group-title="Ungrouped",Canal Azteca - GUA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961459
+#EXTINF:-1 group-title="Ungrouped",Canal VTV HND
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961460
+#EXTINF:-1 group-title="Ungrouped",Cartoon Network
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961461
+#EXTINF:-1 group-title="Ungrouped",Cartoonito
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961462
+#EXTINF:-1 group-title="Ungrouped",Cine Latino
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961463
+#EXTINF:-1 group-title="Ungrouped",CineCanal
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961464
+#EXTINF:-1 group-title="Ungrouped",CineMax
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961465
+#EXTINF:-1 group-title="Ungrouped",Claro Cinema
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961466
+#EXTINF:-1 group-title="Ungrouped",Claro Musica
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961467
+#EXTINF:-1 group-title="Ungrouped",Claro Sports 1 SD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961468
+#EXTINF:-1 group-title="Ungrouped",Claro Sports 2 SD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961469
+#EXTINF:-1 group-title="Ungrouped",Color Vision 9 - RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961470
+#EXTINF:-1 group-title="Ungrouped",DHE
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961471
+#EXTINF:-1 group-title="Ungrouped",Digital 15 - RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961472
+#EXTINF:-1 group-title="Ungrouped",Discovery Channel
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961473
+#EXTINF:-1 group-title="Ungrouped",Discovery Home & Health
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961474
+#EXTINF:-1 group-title="Ungrouped",Discovery Kids
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961475
+#EXTINF:-1 group-title="Ungrouped",Discovery Science
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961476
+#EXTINF:-1 group-title="Ungrouped",Discovery Turbo
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961477
+#EXTINF:-1 group-title="Ungrouped",Disney
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961478
+#EXTINF:-1 group-title="Ungrouped",Disney JR
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961479
+#EXTINF:-1 group-title="Ungrouped",E!
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961480
+#EXTINF:-1 group-title="Ungrouped",El Gourmet
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961481
+#EXTINF:-1 group-title="Ungrouped",ESPN
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961482
+#EXTINF:-1 group-title="Ungrouped",ESPN 2
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961483
+#EXTINF:-1 group-title="Ungrouped",ESPN 3
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961484
+#EXTINF:-1 group-title="Ungrouped",EURO Channel
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961485
+#EXTINF:-1 group-title="Ungrouped",Exa TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961486
+#EXTINF:-1 group-title="Ungrouped",Film & Arts
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961487
+#EXTINF:-1 group-title="Ungrouped",Fox Sport 3
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961488
+#EXTINF:-1 group-title="Ungrouped",FUTV CR
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961489
+#EXTINF:-1 group-title="Ungrouped",FX
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961490
+#EXTINF:-1 group-title="Ungrouped",Golden
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961491
+#EXTINF:-1 group-title="Ungrouped",Golf Channel
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961492
+#EXTINF:-1 group-title="Ungrouped",Guatevision - GUA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961493
+#EXTINF:-1 group-title="Ungrouped",H2
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961494
+#EXTINF:-1 group-title="Ungrouped",HBO XTREME
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961495
+#EXTINF:-1 group-title="Ungrouped",HCH- HON
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961496
+#EXTINF:-1 group-title="Ungrouped",History Channel
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961497
+#EXTINF:-1 group-title="Ungrouped",Hola!TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961498
+#EXTINF:-1 group-title="Ungrouped",Home Garden Latino
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961499
+#EXTINF:-1 group-title="Ungrouped",HTV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961500
+#EXTINF:-1 group-title="Ungrouped",ID
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961501
+#EXTINF:-1 group-title="Ungrouped",La voz de Maria
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961502
+#EXTINF:-1 group-title="Ungrouped",Latin America Sport
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961503
+#EXTINF:-1 group-title="Ungrouped",Mas Chic
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961504
+#EXTINF:-1 group-title="Ungrouped",MASTV - PAN
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961505
+#EXTINF:-1 group-title="Ungrouped",MTV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961506
+#EXTINF:-1 group-title="Ungrouped",MTV 00s
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961507
+#EXTINF:-1 group-title="Ungrouped",MTV 80s
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961508
+#EXTINF:-1 group-title="Ungrouped",MTV Hits
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961509
+#EXTINF:-1 group-title="Ungrouped",Multicinema
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961510
+#EXTINF:-1 group-title="Ungrouped",Multimedios
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961511
+#EXTINF:-1 group-title="Ungrouped",Multipremier
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961512
+#EXTINF:-1 group-title="Ungrouped",National Geographic
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961513
+#EXTINF:-1 group-title="Ungrouped",NEXT - PAN
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961514
+#EXTINF:-1 group-title="Ungrouped",Nicarao TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961515
+#EXTINF:-1 group-title="Ungrouped",Nick Jr
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961516
+#EXTINF:-1 group-title="Ungrouped",Nickelodeon
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961517
+#EXTINF:-1 group-title="Ungrouped",Paramount
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961518
+#EXTINF:-1 group-title="Ungrouped",Playboy
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961519
+#EXTINF:-1 group-title="Ungrouped",PXTV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961520
+#EXTINF:-1 group-title="Ungrouped",RCN - GUA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961521
+#EXTINF:-1 group-title="Ungrouped",RCN Novelas
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961522
+#EXTINF:-1 group-title="Ungrouped",RHEMA TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961523
+#EXTINF:-1 group-title="Ungrouped",Sembrador
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961524
+#EXTINF:-1 group-title="Ungrouped",SEMILLITAS
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961525
+#EXTINF:-1 group-title="Ungrouped",SERTV - PAN
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961526
+#EXTINF:-1 group-title="Ungrouped",SONY
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961527
+#EXTINF:-1 group-title="Ungrouped",SPACE
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961528
+#EXTINF:-1 group-title="Ungrouped",STAR CHANNEL
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961529
+#EXTINF:-1 group-title="Ungrouped",Studio Universal
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961530
+#EXTINF:-1 group-title="Ungrouped",Sun Channel
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961531
+#EXTINF:-1 group-title="Ungrouped",SyFy
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961532
+#EXTINF:-1 group-title="Ungrouped",TBN Enlace
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961533
+#EXTINF:-1 group-title="Ungrouped",TBS
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961534
+#EXTINF:-1 group-title="Ungrouped",TCM
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961535
+#EXTINF:-1 group-title="Ungrouped",Telecentro - RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961536
+#EXTINF:-1 group-title="Ungrouped",TeleMicro - RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961537
+#EXTINF:-1 group-title="Ungrouped",Telemundo
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961538
+#EXTINF:-1 group-title="Ungrouped",Telesistema RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961539
+#EXTINF:-1 group-title="Ungrouped",Teleuniverso - RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961540
+#EXTINF:-1 group-title="Ungrouped",Televida RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961541
+#EXTINF:-1 group-title="Ungrouped",TLC
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961542
+#EXTINF:-1 group-title="Ungrouped",TNT
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961543
+#EXTINF:-1 group-title="Ungrouped",TNT Series
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961544
+#EXTINF:-1 group-title="Ungrouped",Tooncast
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961545
+#EXTINF:-1 group-title="Ungrouped",Tru TV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961546
+#EXTINF:-1 group-title="Ungrouped",TV  Max - PAN
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961547
+#EXTINF:-1 group-title="Ungrouped",TVChile
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961548
+#EXTINF:-1 group-title="Ungrouped",TVE
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961549
+#EXTINF:-1 group-title="Ungrouped",Universal
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961550
+#EXTINF:-1 group-title="Ungrouped",VTV Canal 35 ESA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961551
+#EXTINF:-1 group-title="Ungrouped",Warner
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961552
+#EXTINF:-1 group-title="Ungrouped",ZooMoo
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961553
+#EXTINF:-1 group-title="Ungrouped",11 - Repretel
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961554
+#EXTINF:-1 group-title="Ungrouped",4 Repretel
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961555
+#EXTINF:-1 group-title="Ungrouped",6 - Repretel
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961556
+#EXTINF:-1 group-title="Ungrouped",A&E
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961557
+#EXTINF:-1 group-title="Ungrouped",A&E HD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961558
+#EXTINF:-1 group-title="Ungrouped",AMC
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961559
+#EXTINF:-1 group-title="Ungrouped",AXN
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961560
+#EXTINF:-1 group-title="Ungrouped",Animal Planet
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961561
+#EXTINF:-1 group-title="Ungrouped",Atres Series
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961562
+#EXTINF:-1 group-title="Ungrouped",Azcorazon
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961563
+#EXTINF:-1 group-title="Ungrouped",Azmundo
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961564
+#EXTINF:-1 group-title="Ungrouped",Azteca Uno
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961565
+#EXTINF:-1 group-title="Ungrouped",Baby First
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961566
+#EXTINF:-1 group-title="Ungrouped",CDN2- RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961567
+#EXTINF:-1 group-title="Ungrouped",CDN37 - RD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961568
+#EXTINF:-1 group-title="Ungrouped",CERTV
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961569
+#EXTINF:-1 group-title="Ungrouped",CNN Internacional
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961570
+#EXTINF:-1 group-title="Ungrouped",CNNE
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961571
+#EXTINF:-1 group-title="Ungrouped",Canal 10 - ESA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961572
+#EXTINF:-1 group-title="Ungrouped",Canal 11 - GUA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961573
+#EXTINF:-1 group-title="Ungrouped",Canal 11 - HON
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961574
+#EXTINF:-1 group-title="Ungrouped",Canal 13 - PAN
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961575
+#EXTINF:-1 group-title="Ungrouped",Canal 14 - NIC
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961576
+#EXTINF:-1 group-title="Ungrouped",Canal 19  ESA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961577
+#EXTINF:-1 group-title="Ungrouped",Canal 2 - PAN
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961578
+#EXTINF:-1 group-title="Ungrouped",Canal 3 - GUA
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961579
+#EXTINF:-1 group-title="Ungrouped",Canal Claro
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961580
+#EXTINF:-1 group-title="Ungrouped",Concert Channel
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961581
+#EXTINF:-1 group-title="Ungrouped",Film & arts HD
+https://m3u-editor.com/serve/a198f810-05db-11ef-9782-dffc79fb3f8e/1147961582
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/QvF4l2t.png",13Max Televisión (1080p)
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/frd60hR.png",Agrotendencia TV (1080p)
-https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-AC26znRmOW4/XrYIBNhD6kI/AAAAAAAA0g4/kn_aWJvt1cAU5lJDuPtnU75IFziaYiaygCK8BGAsYHg/s0/2020-05-08.png",Aire de Santa Fe
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://cdn.mitvstatic.com/channels/ar_canal-c20-villa-maria_m.png",C20 Canal 20 Villa María (720p)
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/qB6I274.png",Canal 4 Jujuy (720p)
-http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/fgrauI0.png",Canal 4 Posadas (576p)
 https://iptv.ixfo.com.ar:30443/live/C4POS/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-nLhzzPBenzQ/YGpG1G6WqiI/AAAAAAABBNI/4EDWxIC8dxIgRXapYx9PIZvSEbPFfbODACK8BGAsYHg/s512/2021-04-04.jpg",Canal 5 (Pico Truncado)
@@ -37,26 +373,18 @@ https://5f700d5b2c46f.streamlock.net/canal22/canal22/playlist.m3u8
 https://streamconex.com:1936/mardelplata/mardelplata/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-2lmK8NorVYk/XrYMzuTInHI/AAAAAAAA0iI/vHb7JIABcJwCiHXJP9_HBl904RV7g6hPACK8BGAsYHg/s0/2020-05-08.png",Canal 79 (Santa Clara del Mar)
 https://streamconex.com:1936/santaclara/santaclara/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-iVDSiV3mNXI/Xxoun2Z7-xI/AAAAAAAA3PY/hYRBs3H5ifoKv1w8L1qK729jzwo1xU5HgCK8BGAsYHg/s0/2020-07-23.png",Canal 907 FM
-https://panel.dattalive.com/canal907/canal907/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-aeAlzPyDNX8/Xx4DOKMNpHI/AAAAAAAA3gc/iN2_EZ7gS4URvFD9IB5tjQ6uJ_Qd7rPZwCK8BGAsYHg/s0/2020-07-26.png",Canal Coop
-https://panel.dattalive.com/8138/8138/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/HCTvg6j.png",Canal Provincial (360p)
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://www.canalsantamaria.com.ar/images/santamaria_logo.jpg",Canal Santa María (360p)
 https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://cdn.mitvstatic.com/channels/ar_cba-24n_m.png",Canal U
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-yP5Aq-HAz2g/YFuttja4QPI/AAAAAAABA4o/nUBjbSFEuFsk8Vqba5oVEQwfJzc_BV5IwCK8BGAsYHg/s512/2021-03-24.png",Catamarca TV [Not 24/7]
-https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://www.celtatv.com.ar/images/logo.png",Celta TV
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/mZlUGBf.jpg",Chacra TV (480p) [Not 24/7]
 https://s8.stweb.tv/chacra/live/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSwHrVBVcHJZK4iDbMiZlzq7-LmOuj-O2yGRyI0=s400-c-k-c0x00ffffff-no-rj",Chilecito TV
 https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/WxzqqFQ.jpg",Ciudad TV Resistencia (Chaco) (720p) [Not 24/7]
-http://coninfo.net:1935/chacodxdtv/live/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png",Cosmos TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/75UgF.png",CPEtv
@@ -65,42 +393,20 @@ https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/mvNLE8f.png",Esports Max [Not 24/7]
 http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/SQSu9M5.png",Informacion Periodística (1080p)
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lapacho-tv-canal-11-ar.png",Lapacho TV (720p)
-https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i2.paste.pics/9c35ed9d785ebcdea3a3319d584a9821.png",Más FM 95.9 (720p)
 https://vivo.solumedia.com:19360/masfm/masfm.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/296ICn5.png",NET TV (720p)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/cu2TMBB.png",NG Federal (720p)
 http://www.coninfo.net:1935/tvlink/live/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://www.novelisima.com/assets/images/logo.png",Novelísima [Not 24/7]
-https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/exdDHml.png",Nuevo Tiempo (720p) [Not 24/7]
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png",PowerHD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/xvMDTe9.png",Radio San Borja TV (720p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/rtn-neuqun-1517.jpg",Radio TV Neuquen (720p) [Not 24/7]
-http://media.neuquen.gov.ar/rtn/television/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/daMqavf.jpg",RTN (Neuquén) (720p) [Not 24/7]
-http://media.neuquen.gov.ar/rtn/television/media.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/U872KLT.png",SoloStandUp (480p) [Not 24/7]
 https://paneltv.online:1936/8116/8116/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/8s6aRwv.png",Tastemade en Español (1080p)
-https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://cvisiontv.com/wp-content/uploads/2022/06/cropped-logo-c-vision.png",TeleCinco Trelew (240p)
 https://videohd.live:19360/8016/8016.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/--lIu0htmtg8/X1TLtJrNbfI/AAAAAAAA5Uc/EKwp0eeY99Y5o7Nwz9reunAnLFwQcVBIgCK8BGAsYHg/s0/2020-09-06.jpg",Telediez
-https://videohd.live:19360/8020/8020.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png",TeleMix
-https://panel.dattalive.com/8068/8068/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-XoS6RxCQSVU/YH40uN-lAnI/AAAAAAABBwg/gSs_tad_SrMBNJ_KqXnaNOoM60CSqWuBQCK8BGAsYHg/s512/2021-04-19.jpg",Telenord
-https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
-#EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/byxXHzq.png",Telenord Corrientes (1080p) [Not 24/7]
-http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://solidariatv.com.ar/wp-content/uploads/2019/08/Logo-Solidaria1-1.png",TV Solidaria
 https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
 #EXTINF:-1 group-title="Argentina" tvg-logo="https://i.imgur.com/0MXsQ25.png",TVU Universidad Nacional de La Plata (720p) [Not 24/7]
@@ -117,8 +423,6 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 https://streamer1.connectto.com/AMGA_WEB_1202/playlist.m3u8
 #EXTINF:-1 group-title="Armenia" tvg-logo="https://www.artn.tv/assets/5ba5a4abe66dd.png",ARTN TV (1080p) [Not 24/7]
 https://streamer1.connectto.com/ARTN_mobile/index.m3u8
-#EXTINF:-1 group-title="Armenia",Առաջին ալիք (1080p)
-https://amtv1.livestreamingcdn.com/am2abr/index.m3u8
 #EXTINF:-1 group-title="Australia" tvg-logo="https://i.imgur.com/laB0kug.png",ABC News (720p)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 group-title="Australia" tvg-logo="https://images.squarespace-cdn.com/content/v1/5e5091548bf5a551ea5d9dea/1582338795914-L4KPLRPXI13617OWE4T9/Logo%26Mark_White_Transparent%401x+%281%29.png?format=1500w",ausbiz TV (720p) [Geo-blocked]
@@ -161,10 +465,6 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Bolivia" tvg-logo="https://www.lyngsat.com/logo/tv/rr/red_ad_venir_internacional_bo.png",Red Advenir (360p) [Not 24/7]
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirm/playlist.m3u8
-#EXTINF:-1 group-title="Bolivia" tvg-logo="https://i.imgur.com/eTDc0wd.jpg",RTP (720p) [Not 24/7]
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1 group-title="Bolivia" tvg-logo="https://i.imgur.com/NssXCJO.png",XTOTV (404p) [Not 24/7]
-http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
 #EXTINF:-1 group-title="Canada",WATAN-E-MAA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/vLuzuq1.png",Antofagasta TV (ATV) (1080p)
@@ -237,22 +537,16 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 https://unlimited1-us.dps.live/vivotv/vivotv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/k8qMo2O.jpg",VTV Valle de Aconcagua (720p) [Not 24/7]
 https://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Chile" tvg-logo="https://i.imgur.com/5BKWMaJ.png",Ziza TV (Chiguayante) (720p) [Not 24/7]
-https://v2.tustreaming.cl/zizatv/index.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://atntelevision.co/wp-content/uploads/2020/07/logo-2.png",ATN Televisión (Cúcuta | Norte de Santander) (640p)
 https://59ef525c24caa.streamlock.net/atntelevision/atntelevision/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/7YB94Hf.png",Avivamiento TV (1080p) [Not 24/7]
 https://s1.abntelevision.com/avivamientoabr/stream/avivamientohd/avivamientohd/playlist.m3u8
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Cable_Noticias_logo.svg/512px-Cable_Noticias_logo.svg.png",Cablenoticias (Bogotà | Cundinamarca) (1080p)
-https://5ea86ddd14ce7.streamlock.net/live/cable09061970/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/AZOTbvH.png",Cali TV (Santiago de Cali | Valle del Cauca) (540p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-calitv/calitv1/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/tCQkHZe.png",Canal 2 Alpavisión (Neiva | Huila) (720p) [Not 24/7]
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/iBrl0b8.png",Noticiero 90 Minutos (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
 https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
-#EXTINF:-1 group-title="Colombia" tvg-logo="https://cdn.colombia.com/canales/tdi-colombia-4792.jpg",TDI Colombia (720p) [Not 24/7]
-https://play.amelbasoluciones.co:3971/live/tdicolombiatvlive.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/4xNgb8H.png",Teleislas (San Andrés) (486p) [Not 24/7]
 https://5ab772334c39c.streamlock.net/live-teleislas/teleislas/playlist.m3u8
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/39hy97J.png",Telepacífico (Santiago de Cali | Valle del Cauca) (720p) [Not 24/7]
@@ -305,8 +599,6 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/YDp8MlN.png",Canal 44 Chihuahua (720p) [Not 24/7]
 https://5e50264bd6766.streamlock.net/canal442/videocanal442/playlist.m3u8
-#EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/N4meE8I.png",Jalisco TV (720p) [Geo-blocked]
-https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 #EXTINF:-1 group-title="Mexico" tvg-logo="https://i.imgur.com/mty0mgJ.jpg",Moovimex (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Mexico",Multimedios Saltillo [Geo-blocked]
@@ -343,18 +635,12 @@ https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:-1 group-title="Paraguay" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/09/almalogo2021-300x153.png",AlmayaTV
 https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
-#EXTINF:-1 group-title="Paraguay" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg",DismarTV
-https://rds3.desdeparaguay.net/dismartv/dismartv/playlist.m3u8
 #EXTINF:-1 group-title="Paraguay" tvg-logo="https://iptv.com.py/wp-content/uploads/2021/06/edulogo3-300x204.png",Educanal
 https://59ce1298bfb98.streamlock.net/educanal/educanal/playlist.m3u8
 #EXTINF:-1 group-title="Paraguay" tvg-logo="https://lh3.googleusercontent.com/-OVKm6WJqsOE/YH9lkO3dBoI/AAAAAAABB04/rL_BJgKt2Hw7UJjK0PN4Gl0lbNEW9ZK4wCK8BGAsYHg/s512/2021-04-20.jpg",Estación Cristal
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 #EXTINF:-1 group-title="Paraguay" tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png",MiTV
 https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-#EXTINF:-1 group-title="Paraguay" tvg-logo="https://iptv.com.py/wp-content/uploads/2022/04/motorsur2-300x94.jpg",Motor Sur Media
-https://59ce1298bfb98.streamlock.net/motorsur/motorsur/playlist.m3u8
-#EXTINF:-1 group-title="Paraguay" tvg-logo="https://i.imgur.com/Qc7s5YE.png",Ñanduti TV (720p)
-https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:-1 group-title="Paraguay" tvg-logo="https://lh3.googleusercontent.com/-42jVNrSGxwM/YH9gEZtFVRI/AAAAAAABB0M/JmBFO8jzGg8kfy1LbnUnf9NOJAAi8khsQCK8BGAsYHg/s512/2021-04-20.png",RCC TV
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 #EXTINF:-1 group-title="Paraguay" tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png",Somos Del Este
@@ -371,10 +657,6 @@ https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/uA0GNVH.png",Auténtica Televisión (720p) [Not 24/7]
 https://live.obslivestream.com/autenticatvmux/index.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/KTBFc6v.png",Bella Asuncion TV (720p) [Not 24/7]
-https://tvdatta.com:3602/stream/play.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/7hP4nps.png",BHTV (720p) [Not 24/7]
-http://cdn1.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/4fSkmoA.png",CNC Digital (Iquitos) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8150/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/cEx1LP9.png",Conecta2TV (Lima) (720p) [Not 24/7]
@@ -383,16 +665,12 @@ https://servilive.com:3114/live/liveulive.m3u8
 https://live.obslivestream.com/controversiatv/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/oxycMeA.png",CR Television (Moyobamba) (720p) [Not 24/7]
 https://live.obslivestream.com/crtvmux/index.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/q5jxzr2.png",Identidad TV (720p) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/KIWejCA.png",Impacto Televisión (Cajamarca)
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/Qusd5mT.png",La Ribereña (Pucallpa) (480p) [Not 24/7]
 https://cloudvideo.servers10.com:8081/8070/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/eLP2IH5.png",Miel TV (Satipo) [Not 24/7]
 https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/14nHMat.png",MINEDU IPTV 2 (320p) [Not 24/7]
-http://iptv.perueduca.pe:1935/canal2/canal22/playlist.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/Y9k9XSO.png",Nativa (720p) [Not 24/7]
 https://servilive.com:3449/live/mlecaroslive.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/ScCAgGB.png",Nativa TV (Satipo) [Not 24/7]
@@ -407,8 +685,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 https://servilive.com:3753/live/qosqotimeslive.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://www.radiotvtendencias.com/wp-content/uploads/2022/06/radio-tv-tendencias-logo.jpg",Radio TV Tendencias [Not 24/7]
 https://s1.tvdatta.com:3950/multi_web/play.m3u8
-#EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/QB3tz0d.png",SanjuaneraTV [Not 24/7]
-https://live.obslivestream.com/sanjuanera/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/Ug6XNIU.png",Telecolor (Yurimaguas) (720p) [Not 24/7]
 https://live.obslivestream.com/telecolormux/index.m3u8
 #EXTINF:-1 group-title="Peru" tvg-logo="https://i.imgur.com/aSxZooE.png",Televisión Tarapoto (720p) [Not 24/7]
@@ -439,8 +715,6 @@ http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 https://584097344c1f0.streamlock.net/48/smil:48.smil/playlist.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/CXHLhZD.png",101TV Malaga (1080p) [Not 24/7]
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/B4OcQwT.png",À Punt (720p)
-https://bcovlive-a.akamaihd.net/469e448f034b4d46afa4bcac53297d60/eu-central-1/6057955885001/playlist_dvr.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/pzJAYan.png",Alcarria TV (576p) [Not 24/7]
 http://cls.alcarria.tv/alcarriatv/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/VnXBtjD.png",Bailén TV (720p) [Not 24/7]
@@ -453,24 +727,16 @@ https://cdnapisec.kaltura.com/p/2346171/sp/234617100/playManifest/entryId/1_n644
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/2BBGZ1H.png",Canal 25 TV (Barbastro) (720p) [Not 24/7]
 https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
-#EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/1zJpDIX.png",Canal 33 Madrid (720p) [Not 24/7]
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/master.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/1HsrjNY.png",Canal 56 (576p) [Not 24/7]
 https://videos.canal56.com/directe/stream/index.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/FykJUCH.png",Canal 2000 La Solana (720p)
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
-#EXTINF:-1 group-title="Spain" tvg-logo="https://www.canalcostatv.es/wp-content/uploads/2020/06/logo-cabecera-cc.png",Canalcosta TV
-https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/WXP6YT/playlist.m3u8
 #EXTINF:-1 group-title="Spain",Comedia Made in Spain (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f1abce155a03d0007718834&deviceLat=41.1167&deviceLon=1.2500&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=ES&serverSideAds=false&sid=505&terminate=false&userId=
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/zoe4DhL.png",Cuatro 4 TV Vall Uxa (1080p) [Not 24/7]
 https://limited09.todostreaming.es/live/tarson-livestream.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/5KXkBbs.jpg",Diez TV (1080p)
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
-#EXTINF:-1 group-title="Spain",EDGEsport (1080p) [Not 24/7]
-https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Spain",ESTV (1080p)
-https://estv-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/a9hgTmM.png",Imás TV (1080p) [Not 24/7]
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://proyectoesperanza.es/wp-content/uploads/2017/02/logos-logo-big.png",Logos TV (1080p) [Not 24/7]
@@ -517,8 +783,6 @@ https://vidartv2.todostreaming.es/live/radiovida-emisiontvhd.m3u8
 https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 group-title="Spain",Tastemade
 https://tastemade-es16tm-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Spain" tvg-logo="https://pbs.twimg.com/profile_images/780539549239902208/g2MfVVuY_400x400.jpg",TeleRibera (720p) [Not 24/7]
-http://37.187.7.106/teleribera/live.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/z7NetQO.png",teve.cat (1080p)
 https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png",Top Gear (720p)
@@ -529,3 +793,9 @@ https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/play
 http://185.210.20.13:8080/0.m3u8
 #EXTINF:-1 group-title="Spain" tvg-logo="https://i.imgur.com/XuXs6Kn.png",TVM Córdoba (414p) [Not 24/7]
 http://teledifusion.tv/cordoba/cordobalive/playlist.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-iVDSiV3mNXI/Xxoun2Z7-xI/AAAAAAAA3PY/hYRBs3H5ifoKv1w8L1qK729jzwo1xU5HgCK8BGAsYHg/s0/2020-07-23.png",Canal 907 FM
+https://panel.dattalive.com/canal907/canal907/playlist.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://lh3.googleusercontent.com/-aeAlzPyDNX8/Xx4DOKMNpHI/AAAAAAAA3gc/iN2_EZ7gS4URvFD9IB5tjQ6uJ_Qd7rPZwCK8BGAsYHg/s0/2020-07-26.png",Canal Coop
+https://panel.dattalive.com/8138/8138/playlist.m3u8
+#EXTINF:-1 group-title="Argentina" tvg-logo="https://i2.paste.pics/f5ffafe8c5fcd218d5f15e4849c91891.png",TeleMix
+https://panel.dattalive.com/8068/8068/playlist.m3u8
